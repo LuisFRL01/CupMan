@@ -1,0 +1,5700 @@
+fileFormatVersion: 2
+guid: 052ecf5f9731ca045872ff26a43b2949
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1260828841042841916
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_1
+  - first:
+      213: -5271131764305796375
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_2
+  - first:
+      213: -7774136630863270008
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_3
+  - first:
+      213: -5064537432355525666
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_4
+  - first:
+      213: 997193384875618330
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_5
+  - first:
+      213: -963346789715497610
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_6
+  - first:
+      213: 3044184541512496307
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_7
+  - first:
+      213: -3644660018982301950
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_8
+  - first:
+      213: 2908868035094054503
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_9
+  - first:
+      213: 7140948378183108956
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_10
+  - first:
+      213: -8640914296200031354
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_11
+  - first:
+      213: -6697170206076845897
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_12
+  - first:
+      213: 9148895203784355791
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_13
+  - first:
+      213: 5197106520061485007
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_14
+  - first:
+      213: 8974065880111668428
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_15
+  - first:
+      213: 1281618712635469456
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_16
+  - first:
+      213: -7229606068276428231
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_17
+  - first:
+      213: -5145696746744890025
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_18
+  - first:
+      213: 3841846728243894001
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_19
+  - first:
+      213: 7306456385414722343
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_20
+  - first:
+      213: -3769184342481228265
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_24
+  - first:
+      213: 2166150144530245461
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_25
+  - first:
+      213: -1505939472394649841
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_26
+  - first:
+      213: 356892215204041044
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_27
+  - first:
+      213: 699773437453772686
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_28
+  - first:
+      213: 3157281250054251912
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_29
+  - first:
+      213: -6711401479874492462
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_30
+  - first:
+      213: -7449418385359617874
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_31
+  - first:
+      213: 2738819974669534720
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_33
+  - first:
+      213: -3743962963488476868
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_34
+  - first:
+      213: -7956099059949356364
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_35
+  - first:
+      213: -6918555001353278053
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_36
+  - first:
+      213: -6139950890106863383
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_37
+  - first:
+      213: 8449485402237656955
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_38
+  - first:
+      213: 5533129263912379755
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_39
+  - first:
+      213: -259970116912385029
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_40
+  - first:
+      213: -7347749864899103441
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_41
+  - first:
+      213: 3499510527826070958
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_42
+  - first:
+      213: -4275120577758204844
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_43
+  - first:
+      213: -4304936780377099195
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_44
+  - first:
+      213: 6591557111739317503
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_46
+  - first:
+      213: 4158006787057654384
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_47
+  - first:
+      213: -730414929756300367
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_48
+  - first:
+      213: 6732639870936132136
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_49
+  - first:
+      213: 7977250449977932360
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_50
+  - first:
+      213: -9098757701659766226
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_51
+  - first:
+      213: -1400034541978560673
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_52
+  - first:
+      213: -1921413792982514637
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_53
+  - first:
+      213: 4381691055636303531
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_54
+  - first:
+      213: -9033612424516769181
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_55
+  - first:
+      213: 4412703924944721675
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_56
+  - first:
+      213: -125570939075963560
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_57
+  - first:
+      213: -5682584615183121004
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_58
+  - first:
+      213: -8756103701975472275
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_59
+  - first:
+      213: -8921496201228974497
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_60
+  - first:
+      213: -103000989100963237
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_63
+  - first:
+      213: -2244045177789601368
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_64
+  - first:
+      213: 3758693868199227422
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_65
+  - first:
+      213: -5039703682839398801
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_66
+  - first:
+      213: 5588757281657882869
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_67
+  - first:
+      213: 1183477076011470098
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_68
+  - first:
+      213: 204467204833125816
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_69
+  - first:
+      213: 1659298090942268488
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_70
+  - first:
+      213: 3732766188844279835
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_71
+  - first:
+      213: 2179231469224140065
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_72
+  - first:
+      213: -3144871751733058239
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_80
+  - first:
+      213: 6777401431264869239
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_81
+  - first:
+      213: 3862577367723011911
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_82
+  - first:
+      213: 4817476807073681002
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_83
+  - first:
+      213: -3796636830657562962
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_84
+  - first:
+      213: 7658197044328379375
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_85
+  - first:
+      213: 5999349714183998068
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_86
+  - first:
+      213: -6574788159589031723
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_87
+  - first:
+      213: 4013203559587442706
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_88
+  - first:
+      213: -1009634262717300624
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_89
+  - first:
+      213: 81040875955882414
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_90
+  - first:
+      213: -1555281282613938974
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_91
+  - first:
+      213: 3205770544429499682
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_92
+  - first:
+      213: 7528124231315518168
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_93
+  - first:
+      213: -7025347726440205092
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_94
+  - first:
+      213: 7079653538557189783
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_95
+  - first:
+      213: -7119410793658625212
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_96
+  - first:
+      213: -380905812910026098
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_97
+  - first:
+      213: 1542090260694383030
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_99
+  - first:
+      213: -1109000375545191930
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_100
+  - first:
+      213: -3474726976227260665
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_101
+  - first:
+      213: -384349337844594739
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_102
+  - first:
+      213: -6816203431275883543
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_104
+  - first:
+      213: -4892847426969808038
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_105
+  - first:
+      213: 8351708203512086788
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_106
+  - first:
+      213: 7136975236335354131
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_107
+  - first:
+      213: -8232804955925345941
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_110
+  - first:
+      213: -8602133375428306336
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_111
+  - first:
+      213: 306531651605255666
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_112
+  - first:
+      213: 5559284630451912520
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_113
+  - first:
+      213: 8441542099477773043
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_115
+  - first:
+      213: -159766203349544935
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_116
+  - first:
+      213: -4511744726768484121
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_117
+  - first:
+      213: -3775569995049696374
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_120
+  - first:
+      213: 302960084719242549
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_121
+  - first:
+      213: -2290192508843634642
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_123
+  - first:
+      213: -2177835116189332139
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_124
+  - first:
+      213: 1988197261275479920
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_125
+  - first:
+      213: 4665882276251918453
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_126
+  - first:
+      213: 5943701299223311579
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_127
+  - first:
+      213: -2887713412308130277
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_128
+  - first:
+      213: -706974905609398197
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_129
+  - first:
+      213: 965736277742004459
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_130
+  - first:
+      213: 6516769144091888035
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_131
+  - first:
+      213: 2958163726792262602
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_132
+  - first:
+      213: 9018028792336785692
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_133
+  - first:
+      213: -5475289709444669232
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_134
+  - first:
+      213: 3779107384873949560
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_135
+  - first:
+      213: 1280189457331862928
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_136
+  - first:
+      213: 6772327853628426585
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_137
+  - first:
+      213: -5286427271508680034
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_138
+  - first:
+      213: 3089342433702443313
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_139
+  - first:
+      213: 6088796415250957688
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_140
+  - first:
+      213: 4407846493648039277
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_141
+  - first:
+      213: -6564777413485187746
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_142
+  - first:
+      213: 1372630009912498904
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_143
+  - first:
+      213: -5355642640245103987
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_144
+  - first:
+      213: -2875954279959810821
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_146
+  - first:
+      213: -2468977395284146946
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_147
+  - first:
+      213: -2925436144238083232
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_148
+  - first:
+      213: 3252773497756754306
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_149
+  - first:
+      213: -8170574618180510540
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_150
+  - first:
+      213: 6757163092974696101
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_151
+  - first:
+      213: -8974002614912631363
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_152
+  - first:
+      213: 1073767860917284511
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_153
+  - first:
+      213: 2762667736885227013
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_154
+  - first:
+      213: 2191249400141525023
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_155
+  - first:
+      213: -6717384636701491407
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_156
+  - first:
+      213: -7365298575813115528
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_157
+  - first:
+      213: 242017964800982827
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_158
+  - first:
+      213: 4780293800499562286
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_159
+  - first:
+      213: 3160656221283441998
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_160
+  - first:
+      213: 6787389571847944798
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_161
+  - first:
+      213: 5207275837336710544
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_162
+  - first:
+      213: 8604148595613479137
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_163
+  - first:
+      213: 453883042705178632
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_164
+  - first:
+      213: -6175788984434569113
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_165
+  - first:
+      213: -5829746713848647888
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_166
+  - first:
+      213: 3339401781850005994
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_167
+  - first:
+      213: 2955722778177054983
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_168
+  - first:
+      213: 7977452166694223264
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_169
+  - first:
+      213: 1437968348943106954
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_170
+  - first:
+      213: -8888666485798724559
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_171
+  - first:
+      213: -1692803341624006331
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_172
+  - first:
+      213: 6207117779196599249
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_174
+  - first:
+      213: -8691194837655506188
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_175
+  - first:
+      213: 1120981416629244666
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_176
+  - first:
+      213: 3307521527423263694
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_177
+  - first:
+      213: 3718535706018269884
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_178
+  - first:
+      213: 8048840215615728324
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_179
+  - first:
+      213: 4253538579795010253
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_180
+  - first:
+      213: -395798863767031840
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_181
+  - first:
+      213: 430822778739620583
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_182
+  - first:
+      213: -5156893080488910739
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_183
+  - first:
+      213: 3208454766871533080
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_184
+  - first:
+      213: -3202678451764571232
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_185
+  - first:
+      213: -4454655000902083893
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_186
+  - first:
+      213: 8791284336156792813
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_187
+  - first:
+      213: -6791674746202957951
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_188
+  - first:
+      213: -8572013024910245792
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_192
+  - first:
+      213: -2828114009992706030
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_193
+  - first:
+      213: -4934747071081646858
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_194
+  - first:
+      213: 6327554118856573592
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_195
+  - first:
+      213: -8859106695486208598
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_196
+  - first:
+      213: 1165754447133815993
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_198
+  - first:
+      213: 136405134275435127
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_199
+  - first:
+      213: 6060505955106687062
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_200
+  - first:
+      213: -9185523831993628011
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_201
+  - first:
+      213: -746084926475713573
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_202
+  - first:
+      213: -4602209695736539333
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_204
+  - first:
+      213: -2900827307887780769
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_205
+  - first:
+      213: -1166108802267170012
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_206
+  - first:
+      213: 3474606912554428531
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_207
+  - first:
+      213: 1689907451420024572
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_208
+  - first:
+      213: 6726396397821798106
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_211
+  - first:
+      213: -2638509446333405275
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_212
+  - first:
+      213: 473568942474997857
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_213
+  - first:
+      213: -2054001199139727164
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_214
+  - first:
+      213: -5834426427528035148
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_215
+  - first:
+      213: 734915756812471746
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_216
+  - first:
+      213: -5501827208759542651
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_217
+  - first:
+      213: -6449288617760657017
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_218
+  - first:
+      213: -8338178390207119786
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_219
+  - first:
+      213: 6067132082280789471
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_220
+  - first:
+      213: 1641136146156590844
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_221
+  - first:
+      213: 1700987418312642285
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_222
+  - first:
+      213: -730307241669290639
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_223
+  - first:
+      213: 7760627070503573575
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_224
+  - first:
+      213: 10476875626279994
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_225
+  - first:
+      213: -491863925956819713
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_226
+  - first:
+      213: -5003027861752191217
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_227
+  - first:
+      213: -6834710079775854175
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_228
+  - first:
+      213: 8166372700386574142
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_229
+  - first:
+      213: 7941941396372947545
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_230
+  - first:
+      213: 8305488894127013913
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_231
+  - first:
+      213: -4172141196980149391
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_232
+  - first:
+      213: -6652685715836470874
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_233
+  - first:
+      213: -4287452700801154658
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_234
+  - first:
+      213: -2090365290747772680
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_235
+  - first:
+      213: -3724518401361526209
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_236
+  - first:
+      213: -3527885415175308633
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_237
+  - first:
+      213: 5959718865560089038
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_238
+  - first:
+      213: 7471986590843739976
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_239
+  - first:
+      213: 5568640030390618486
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_240
+  - first:
+      213: -8816555825890571244
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_241
+  - first:
+      213: 1244720125154497650
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_242
+  - first:
+      213: 761859010268836956
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_243
+  - first:
+      213: -7201017648883070059
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_244
+  - first:
+      213: 7960051341018391935
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_245
+  - first:
+      213: 7820037135145527875
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_246
+  - first:
+      213: -794249055473273514
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_247
+  - first:
+      213: -4185089439894583520
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_248
+  - first:
+      213: -7238130270153051109
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_249
+  - first:
+      213: -5063763881877284918
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_250
+  - first:
+      213: -3556897235809499981
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_251
+  - first:
+      213: -5114052510967931894
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_252
+  - first:
+      213: 4579923311936383308
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_253
+  - first:
+      213: -4723157580974907839
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_254
+  - first:
+      213: -516895588173657111
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_255
+  - first:
+      213: 4715715889267121864
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_256
+  - first:
+      213: -5348681785486611181
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_257
+  - first:
+      213: 7856094555044886812
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_258
+  - first:
+      213: 8075562341420704913
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_259
+  - first:
+      213: 6656644834365955374
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_260
+  - first:
+      213: 4337979040902723752
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_261
+  - first:
+      213: -3613451882430885317
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_262
+  - first:
+      213: -3913179907812269994
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_263
+  - first:
+      213: -2485847584964364963
+    second: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_264
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1904
+        width: 4
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cee21769d2a08ee0800000000000000
+      internalID: -1260828841042841916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1904
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e26648869d29d6b0800000000000000
+      internalID: -5271131764305796375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1904
+        width: 10
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fea026ce7bc1490800000000000000
+      internalID: -7774136630863270008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1904
+        width: 16
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edba7c0d90627b9b0800000000000000
+      internalID: -5064537432355525666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1904
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1071e5a91eb6dd00800000000000000
+      internalID: 997193384875618330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1904
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67dae73e23181a2f0800000000000000
+      internalID: -963346789715497610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_7
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1904
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4769336bd1f3a20800000000000000
+      internalID: 3044184541512496307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_8
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1904
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fcd71e5019b6dc0800000000000000
+      internalID: -3644660018982301950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_9
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1904
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766054ae0106e5820800000000000000
+      internalID: 2908868035094054503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_10
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1904
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59810137beb91360800000000000000
+      internalID: 7140948378183108956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_11
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1904
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6831768aa3e451880800000000000000
+      internalID: -8640914296200031354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1904
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0c5724e2fde03a0800000000000000
+      internalID: -6697170206076845897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_13
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1904
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf67d407b767fe70800000000000000
+      internalID: 9148895203784355791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_14
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1904
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf912438d4df1840800000000000000
+      internalID: 5197106520061485007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_15
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1904
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc520f0f594a8c70800000000000000
+      internalID: 8974065880111668428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_16
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1904
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e6128cd6939c110800000000000000
+      internalID: 1281618712635469456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_17
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1904
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9320062c5974bab90800000000000000
+      internalID: -7229606068276428231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_18
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1904
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d33686210d698b0800000000000000
+      internalID: -5145696746744890025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_19
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1904
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6597e8e3bf05530800000000000000
+      internalID: 3841846728243894001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_20
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1904
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723778b0f5fb56560800000000000000
+      internalID: 7306456385414722343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1850
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e217d7fca21bbc0800000000000000
+      internalID: -3769184342481228265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_25
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1850
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557e2e66416bf0e10800000000000000
+      internalID: 2166150144530245461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1850
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f7da65704d91be0800000000000000
+      internalID: -1505939472394649841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_27
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1850
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451d65e249fe3f400800000000000000
+      internalID: 356892215204041044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_28
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1850
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87afaadb3816b900800000000000000
+      internalID: 699773437453772686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_29
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1850
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8852c75a19ae0db20800000000000000
+      internalID: 3157281250054251912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_30
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1850
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7cc0f99ef4cd2a0800000000000000
+      internalID: -6711401479874492462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_31
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1850
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0406d72795e9890800000000000000
+      internalID: -7449418385359617874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1796
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0060ced814e320620800000000000000
+      internalID: 2738819974669534720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_34
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1796
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31fc056585ca0cc0800000000000000
+      internalID: -3743962963488476868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_35
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1796
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba36e5ee02469190800000000000000
+      internalID: -7956099059949356364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_36
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1796
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9de551e1ea5cff90800000000000000
+      internalID: -6918555001353278053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_37
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1797
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e046d042338acaa0800000000000000
+      internalID: -6139950890106863383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_38
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1797
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f593fb43a924570800000000000000
+      internalID: 8449485402237656955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_39
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1797
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65e0dfefbf99cc40800000000000000
+      internalID: 5533129263912379755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_40
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1797
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf378395e86646cf0800000000000000
+      internalID: -259970116912385029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_41
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1796
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25b34c8d6c870a90800000000000000
+      internalID: -7347749864899103441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_42
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1796
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead00daa842c09030800000000000000
+      internalID: 3499510527826070958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_43
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1796
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c62ce2c78bba4c0800000000000000
+      internalID: -4275120577758204844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_44
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1796
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544fb198ecac144c0800000000000000
+      internalID: -4304936780377099195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_46
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1743
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcfbe1054ae97b50800000000000000
+      internalID: 6591557111739317503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_47
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1743
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a1c3c842534b930800000000000000
+      internalID: 4158006787057654384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_48
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1743
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbdb35cd7b0dd5f0800000000000000
+      internalID: -730414929756300367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_49
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1699
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82aa7c3aa442f6d50800000000000000
+      internalID: 6732639870936132136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_50
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1699
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a724bd403e4be60800000000000000
+      internalID: 7977250449977932360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_51
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1699
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22583fd318bab180800000000000000
+      internalID: -9098757701659766226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1699
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5757147004129ce0800000000000000
+      internalID: -1400034541978560673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_53
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1700
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334cdbad554c555e0800000000000000
+      internalID: -1921413792982514637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_54
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1700
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae45b6ccc4eecc30800000000000000
+      internalID: 4381691055636303531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_55
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1700
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a6f1eac5922a280800000000000000
+      internalID: -9033612424516769181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_56
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1700
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b075d4917d21d3d30800000000000000
+      internalID: 4412703924944721675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_57
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1699
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855d34e65e1e14ef0800000000000000
+      internalID: -125570939075963560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_58
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1699
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49509ed66676321b0800000000000000
+      internalID: -5682584615183121004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_59
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1699
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67e44b23121c7680800000000000000
+      internalID: -8756103701975472275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_60
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1699
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5600cc197a703480800000000000000
+      internalID: -8921496201228974497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_63
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1647
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a8f196521129ef0800000000000000
+      internalID: -103000989100963237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_64
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1647
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a92ceddccc8bd0e0800000000000000
+      internalID: -2244045177789601368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_65
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1647
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e103471a820992430800000000000000
+      internalID: 3758693868199227422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_66
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1647
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f663123b3306f0ab0800000000000000
+      internalID: -5039703682839398801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_67
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1647
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8881d13214f8d40800000000000000
+      internalID: 5588757281657882869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_68
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1647
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d4b7b512e8c6010800000000000000
+      internalID: 1183477076011470098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_69
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1647
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5ab48e6d966d200800000000000000
+      internalID: 204467204833125816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_70
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1647
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844091782d2070710800000000000000
+      internalID: 1659298090942268488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_71
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1647
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18e6ab52137dc330800000000000000
+      internalID: 3732766188844279835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_72
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1648
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d1576a97f2e3e10800000000000000
+      internalID: 2179231469224140065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1583
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1456ac5ddcb2b54d0800000000000000
+      internalID: -3144871751733058239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_81
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1583
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b34ca81ba2e0e50800000000000000
+      internalID: 6777401431264869239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_82
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1583
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fe790b6a1aa9530800000000000000
+      internalID: 3862577367723011911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_83
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1583
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e4f47c1ad1bd240800000000000000
+      internalID: 4817476807073681002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_84
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1584
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6bd7ffae2af4bc0800000000000000
+      internalID: -3796636830657562962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_85
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1584
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3b32f03a1674a60800000000000000
+      internalID: 7658197044328379375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_86
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1539
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a474577c8f14350800000000000000
+      internalID: 5999349714183998068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_87
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1539
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0604ae009a1c4a0800000000000000
+      internalID: -6574788159589031723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_88
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1539
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210fa84ef53c1b730800000000000000
+      internalID: 4013203559587442706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_89
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1539
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0700ca1ccfe0df1f0800000000000000
+      internalID: -1009634262717300624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_90
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1540
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea903af4f3aef1100800000000000000
+      internalID: 81040875955882414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_91
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1540
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e47bf7e9e78a6ae0800000000000000
+      internalID: -1555281282613938974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_92
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1540
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2258124435f2d7c20800000000000000
+      internalID: 3205770544429499682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_93
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1540
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d272984a15497860800000000000000
+      internalID: 7528124231315518168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_94
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1539
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4fee5f673f08e90800000000000000
+      internalID: -7025347726440205092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_95
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1539
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ed98a326bff3260800000000000000
+      internalID: 7079653538557189783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_96
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1539
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44355e97a95c23d90800000000000000
+      internalID: -7119410793658625212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_97
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1539
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82dd986e20c6baf0800000000000000
+      internalID: -380905812910026098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_99
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1489
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b93748fbea966510800000000000000
+      internalID: 1542090260694383030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_100
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1489
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602aadfb80a0c90f0800000000000000
+      internalID: -1109000375545191930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_101
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1489
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707c18a993a47cfc0800000000000000
+      internalID: -3474726976227260665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_102
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1489
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7cd1840548aaaf0800000000000000
+      internalID: -384349337844594739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_104
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1439
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e39002d71bf761a0800000000000000
+      internalID: -6816203431275883543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_105
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1439
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53d747403d191cb0800000000000000
+      internalID: -4892847426969808038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_106
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1439
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401cd02ac5a37e370800000000000000
+      internalID: 8351708203512086788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_107
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1439
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31147840a21ab0360800000000000000
+      internalID: 7136975236335354131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_110
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1383
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b698ef803833fbd80800000000000000
+      internalID: -8232804955925345941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_111
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1383
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a501765451f9880800000000000000
+      internalID: -8602133375428306336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_112
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1383
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5585eb9e4014400800000000000000
+      internalID: 306531651605255666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_113
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1383
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fff53caeb862d40800000000000000
+      internalID: 5559284630451912520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_115
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1335
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fab0e370d1662570800000000000000
+      internalID: 8441542099477773043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_116
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1335
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910dc3a0c7568cdf0800000000000000
+      internalID: -159766203349544935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_117
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1335
+        width: 54
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e009b343101361c0800000000000000
+      internalID: -4511744726768484121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_120
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1276
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a838074e71b7a9bc0800000000000000
+      internalID: -3775569995049696374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_121
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1276
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d00d68794543400800000000000000
+      internalID: 302960084719242549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_123
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1211
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e205d131c0a9730e0800000000000000
+      internalID: -2290192508843634642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_124
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1211
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55dc9202086c6c1e0800000000000000
+      internalID: -2177835116189332139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_125
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1211
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fbabd00ee779b10800000000000000
+      internalID: 1988197261275479920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_126
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1211
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57069c7953b80c040800000000000000
+      internalID: 4665882276251918453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_127
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1156
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4bb3f27d44c7250800000000000000
+      internalID: 5943701299223311579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_128
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1156
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b162e3683f7cce7d0800000000000000
+      internalID: -2887713412308130277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_129
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1156
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48590ea1125036f0800000000000000
+      internalID: -706974905609398197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_130
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1156
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be82585270cf66d00800000000000000
+      internalID: 965736277742004459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_131
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1101
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9c2dc5207307a50800000000000000
+      internalID: 6516769144091888035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_132
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1101
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac306ea8c328d0920800000000000000
+      internalID: 2958163726792262602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_133
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1101
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11aa753869762d70800000000000000
+      internalID: 9018028792336785692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_134
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1101
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0e232c40dd304b0800000000000000
+      internalID: -5475289709444669232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_135
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1101
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879977bd426127430800000000000000
+      internalID: 3779107384873949560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_136
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1101
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d3779578524c110800000000000000
+      internalID: 1280189457331862928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_137
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1049
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95981023d442cfd50800000000000000
+      internalID: 6772327853628426585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_138
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1049
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92a9ceb766d2a6b0800000000000000
+      internalID: -5286427271508680034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_139
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 998
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139ff5e439c8fda20800000000000000
+      internalID: 3089342433702443313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_140
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 998
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87584b07410cf7450800000000000000
+      internalID: 6088796415250957688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_141
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 998
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6da75e3801db2d30800000000000000
+      internalID: 4407846493648039277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_142
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 998
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d25bf59b935e4a0800000000000000
+      internalID: -6564777413485187746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_143
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 941
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da10e4b8bf8c0310800000000000000
+      internalID: 1372630009912498904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_144
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 941
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d826144e46feca5b0800000000000000
+      internalID: -5355642640245103987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_146
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 871
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc2bb0e1de8618d0800000000000000
+      internalID: -2875954279959810821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_147
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 871
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef48e93e32e6cbdd0800000000000000
+      internalID: -2468977395284146946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_148
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 871
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063c9919353c667d0800000000000000
+      internalID: -2925436144238083232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_149
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 871
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281a894234c242d20800000000000000
+      internalID: 3252773497756754306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_150
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 871
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc1780aca94c9e80800000000000000
+      internalID: -8170574618180510540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_151
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 871
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6f226380446cd50800000000000000
+      internalID: 6757163092974696101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_152
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 871
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdb4b40b20f57380800000000000000
+      internalID: -8974002614912631363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_153
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 871
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ea4313e2ac6ee00800000000000000
+      internalID: 1073767860917284511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_154
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 871
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ee9716ba7f65620800000000000000
+      internalID: 2762667736885227013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_155
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 871
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1039bd38b1e86e10800000000000000
+      internalID: 2191249400141525023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_156
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 871
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fbdbd534e07c2a0800000000000000
+      internalID: -6717384636701491407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_157
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 871
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87108f3e7f339c990800000000000000
+      internalID: -7365298575813115528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_158
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 811
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fb9358e02db5300800000000000000
+      internalID: 242017964800982827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_159
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 811
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2747cc62e3075240800000000000000
+      internalID: 4780293800499562286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_160
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 811
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d5abe5618ecdb20800000000000000
+      internalID: 3160656221283441998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_161
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 811
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5aff2ebad6a13e50800000000000000
+      internalID: 6787389571847944798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_162
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 811
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dede3e8c5f34840800000000000000
+      internalID: 5207275837336710544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_163
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 811
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0b73c9f83186770800000000000000
+      internalID: 8604148595613479137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_164
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 751
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800040af8348c4600800000000000000
+      internalID: 453883042705178632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_165
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 751
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760d10fa3a03b4aa0800000000000000
+      internalID: -6175788984434569113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_166
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 751
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fec864044981fa0800000000000000
+      internalID: -5829746713848647888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_167
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 691
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1e9794a30f75e20800000000000000
+      internalID: 3339401781850005994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_168
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 691
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70926c7e436d40920800000000000000
+      internalID: 2955722778177054983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_169
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 691
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adba70ba7a95be60800000000000000
+      internalID: 7977452166694223264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_170
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 691
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83420d3890b4f310800000000000000
+      internalID: 1437968348943106954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_171
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 631
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c1c03ecec15a480800000000000000
+      internalID: -8888666485798724559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_172
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 631
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54928e36454f188e0800000000000000
+      internalID: -1692803341624006331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_174
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 561
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db5604cbbc142650800000000000000
+      internalID: 6207117779196599249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_175
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 561
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2b5d3d75ca26780800000000000000
+      internalID: -8691194837655506188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_176
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 561
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af21002c8a68e8f00800000000000000
+      internalID: 1120981416629244666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_177
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 561
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec365012e4da6ed20800000000000000
+      internalID: 3307521527423263694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_178
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 561
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba43d1e584ea9330800000000000000
+      internalID: 3718535706018269884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_179
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 511
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca67a1188933bf60800000000000000
+      internalID: 8048840215615728324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_180
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 511
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2e9175dca970b30800000000000000
+      internalID: 4253538579795010253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_181
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 511
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efa9aac707d18af0800000000000000
+      internalID: -395798863767031840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_182
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 511
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eafbefd8079af500800000000000000
+      internalID: 430822778739620583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_183
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 511
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60e9c0d0190f68b0800000000000000
+      internalID: -5156893080488910739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_184
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 451
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81659418c98b68c20800000000000000
+      internalID: 3208454766871533080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_185
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 451
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a356c8aaeccd83d0800000000000000
+      internalID: -3202678451764571232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_186
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 451
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca5052e0e2ed22c0800000000000000
+      internalID: -4454655000902083893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_187
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 451
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7d418868ae00a70800000000000000
+      internalID: 8791284336156792813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_188
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 451
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187d49a5dcf1fb1a0800000000000000
+      internalID: -6791674746202957951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_192
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 399
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060043002971a0980800000000000000
+      internalID: -8572013024910245792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_193
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 399
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218441aba4580c8d0800000000000000
+      internalID: -2828114009992706030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_194
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 399
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f477cb2fa1448bb0800000000000000
+      internalID: -4934747071081646858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_195
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 399
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892818f32fcffc750800000000000000
+      internalID: 6327554118856573592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_196
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 399
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa58244e5612e0580800000000000000
+      internalID: -8859106695486208598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_198
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 340
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b43eb44e779d2010800000000000000
+      internalID: 1165754447133815993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_199
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 340
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ad6063fbb94e100800000000000000
+      internalID: 136405134275435127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_200
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 340
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65806456e0e3b1450800000000000000
+      internalID: 6060505955106687062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_201
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 340
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a8226edb6768080800000000000000
+      internalID: -9185523831993628011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_202
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 340
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3442956bf55a5f0800000000000000
+      internalID: -746084926475713573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_204
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 282
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37d3cf4aaaa120c0800000000000000
+      internalID: -4602209695736539333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_205
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 282
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c9896cee03eb7d0800000000000000
+      internalID: -2900827307887780769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_206
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 282
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bb86ff83621dfe0800000000000000
+      internalID: -1166108802267170012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_207
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 282
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3786ce4e398483030800000000000000
+      internalID: 3474606912554428531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_208
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 282
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe1d21afd1c37710800000000000000
+      internalID: 1689907451420024572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_211
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 212
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6a2a6c2e5f85d50800000000000000
+      internalID: 6726396397821798106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_212
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 212
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7e8c253a1226bd0800000000000000
+      internalID: -2638509446333405275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_213
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 212
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16031e0b174729600800000000000000
+      internalID: 473568942474997857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_214
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 212
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8dc0dbac8be73e0800000000000000
+      internalID: -2054001199139727164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_215
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 212
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b44a078314f70fa0800000000000000
+      internalID: -5834426427528035148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_216
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 212
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd05a0bcf1f23a00800000000000000
+      internalID: 734915756812471746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_217
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 212
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cfe46bd4595a3b0800000000000000
+      internalID: -5501827208759542651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_218
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 212
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781f7640c268f76a0800000000000000
+      internalID: -6449288617760657017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_219
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 146
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ebdd18ee6d84c80800000000000000
+      internalID: -8338178390207119786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_220
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 146
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5f8b9db78c23450800000000000000
+      internalID: 6067132082280789471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_221
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 146
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf697bb31ac76c610800000000000000
+      internalID: 1641136146156590844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_222
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 146
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee0fe37b0f1b9710800000000000000
+      internalID: 1700987418312642285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_223
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 146
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175186bde6d6dd5f0800000000000000
+      internalID: -730307241669290639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_224
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 146
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74855abf33943bb60800000000000000
+      internalID: 7760627070503573575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_225
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 146
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a347f02b9a8352000800000000000000
+      internalID: 10476875626279994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_226
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 146
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4c3878d5c8c29f0800000000000000
+      internalID: -491863925956819713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_227
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 146
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07e0eabaaca19ab0800000000000000
+      internalID: -5003027861752191217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_228
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 146
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1bd20f46b3621a0800000000000000
+      internalID: -6834710079775854175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_229
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 146
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f3df524b8c45170800000000000000
+      internalID: 8166372700386574142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_230
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 146
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95287cd2f91773e60800000000000000
+      internalID: 7941941396372947545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_231
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 146
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91084641526034370800000000000000
+      internalID: 8305488894127013913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_232
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 146
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173a931bfa39916c0800000000000000
+      internalID: -4172141196980149391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_233
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 146
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a97041c699eca3a0800000000000000
+      internalID: -6652685715836470874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_234
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 146
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9145790c78ef74c0800000000000000
+      internalID: -4287452700801154658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_235
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 146
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f04c22e7d78df2e0800000000000000
+      internalID: -2090365290747772680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_236
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 146
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32c07f4f3adf4cc0800000000000000
+      internalID: -3724518401361526209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_237
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 146
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aab13c08ee6a0fc0800000000000000
+      internalID: -3527885415175308633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_238
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 146
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec137e67bbc25b250800000000000000
+      internalID: 5959718865560089038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_239
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f19b15734d1b760800000000000000
+      internalID: 7471986590843739976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_240
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 146
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679047d8a98c74d40800000000000000
+      internalID: 5568640030390618486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_241
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c446f303d45a580800000000000000
+      internalID: -8816555825890571244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_242
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 124
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2741d98eb52264110800000000000000
+      internalID: 1244720125154497650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_243
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 124
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54310cbbbaa29a00800000000000000
+      internalID: 761859010268836956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_244
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 124
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b8109d998d01c90800000000000000
+      internalID: -7201017648883070059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_245
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 124
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75e54f3588c77e60800000000000000
+      internalID: 7960051341018391935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_246
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 124
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a66b2975a568c60800000000000000
+      internalID: 7820037135145527875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_247
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 124
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655735131b24af4f0800000000000000
+      internalID: -794249055473273514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_248
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 124
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02748d5f3539be5c0800000000000000
+      internalID: -4185089439894583520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_249
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 124
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1476895edefc8b90800000000000000
+      internalID: -7238130270153051109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_250
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 124
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac750421495e9b9b0800000000000000
+      internalID: -5063763881877284918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_251
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 124
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4810d2fcc53aec0800000000000000
+      internalID: -3556897235809499981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_252
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 124
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cdf01365c3709b0800000000000000
+      internalID: -5114052510967931894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_253
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 124
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49af7a9cf72f8f30800000000000000
+      internalID: 4579923311936383308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_254
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 124
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e1cc75439f37eb0800000000000000
+      internalID: -4723157580974907839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_255
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 124
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb41f0833e93d8f0800000000000000
+      internalID: -516895588173657111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_256
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 124
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce9e69cd96917140800000000000000
+      internalID: 4715715889267121864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_257
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31de77f214aa5c5b0800000000000000
+      internalID: -5348681785486611181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_258
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 124
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19b45bdf54760d60800000000000000
+      internalID: 7856094555044886812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_259
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 124
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19427e1d929221070800000000000000
+      internalID: 8075562341420704913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_260
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 124
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d525c5537216c50800000000000000
+      internalID: 6656644834365955374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_261
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 124
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8b81044f8933c30800000000000000
+      internalID: 4337979040902723752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_262
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 124
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b329db668a07addc0800000000000000
+      internalID: -3613451882430885317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_263
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 124
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65067a45b9791b9c0800000000000000
+      internalID: -3913179907812269994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Mega Man Mega Man 7-Style (1)_264
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 124
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55bf64cace708dd0800000000000000
+      internalID: -2485847584964364963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

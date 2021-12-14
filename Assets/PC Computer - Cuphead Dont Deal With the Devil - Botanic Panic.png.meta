@@ -1,0 +1,804 @@
+fileFormatVersion: 2
+guid: 1c8038cdb893c9443893443257fbbf9e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8190283424922889726
+    second: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_0
+  - first:
+      213: 7885914389719874134
+    second: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_1
+  - first:
+      213: 6340524056215094673
+    second: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_2
+  - first:
+      213: -2593405978599451576
+    second: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_3
+  - first:
+      213: -4091646198634285476
+    second: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_4
+  - first:
+      213: -3511073941305405167
+    second: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_5
+  - first:
+      213: -2843133652660403280
+    second: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_6
+  - first:
+      213: -853548791901513978
+    second: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_7
+  - first:
+      213: -3736543700156679443
+    second: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_8
+  - first:
+      213: -7023875014318960741
+    second: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_9
+  - first:
+      213: 9038734732630501014
+    second: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_10
+  - first:
+      213: 9184802692116552458
+    second: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_11
+  - first:
+      213: 6769675298882397768
+    second: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_12
+  - first:
+      213: -3523967394014336211
+    second: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_13
+  - first:
+      213: -3050769508365358094
+    second: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_14
+  - first:
+      213: 6992285151824843317
+    second: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_15
+  - first:
+      213: 5341302743943120813
+    second: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_16
+  - first:
+      213: -8177576707155074193
+    second: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_17
+  - first:
+      213: 4654209493303961132
+    second: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_18
+  - first:
+      213: 2266536293351615373
+    second: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_19
+  - first:
+      213: -7042312617836536650
+    second: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_20
+  - first:
+      213: 1238841902420870531
+    second: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_21
+  - first:
+      213: 1043239987098626265
+    second: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_22
+  - first:
+      213: -3287537599584673053
+    second: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_23
+  - first:
+      213: -6869441293831514815
+    second: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_24
+  - first:
+      213: 173819447475570064
+    second: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_25
+  - first:
+      213: -5676979066089207765
+    second: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_26
+  - first:
+      213: 9134029846557507054
+    second: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_27
+  - first:
+      213: -1600368344875458960
+    second: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2461
+        width: 140
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20293b77e94465e80800000000000000
+      internalID: -8190283424922889726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2377
+        width: 294
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65af4682b55607d60800000000000000
+      internalID: 7885914389719874134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_2
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2057
+        width: 961
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195058c19011ef750800000000000000
+      internalID: 6340524056215094673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1833
+        width: 959
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844943fb00f520cd0800000000000000
+      internalID: -2593405978599451576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1658
+        width: 947
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5673d7f57d8737c0800000000000000
+      internalID: -4091646198634285476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_5
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1576
+        width: 973
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1115c545ad8264fc0800000000000000
+      internalID: -3511073941305405167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1537
+        width: 343
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3c738a1092b88d0800000000000000
+      internalID: -2843133652660403280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1396
+        width: 475
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6071f3465e59724f0800000000000000
+      internalID: -853548791901513978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1396
+        width: 293
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deaff604d41252cc0800000000000000
+      internalID: -3736543700156679443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_9
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1255
+        width: 1002
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fc6c873ee268e90800000000000000
+      internalID: -7023875014318960741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1108
+        width: 942
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6962d6d9959007d70800000000000000
+      internalID: 9038734732630501014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1236
+        width: 472
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b98a3a269f67f70800000000000000
+      internalID: 9184802692116552458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 773
+        width: 414
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8462f9a21d7b2fd50800000000000000
+      internalID: 6769675298882397768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_13
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 917
+        width: 113
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b67bf635a581fc0800000000000000
+      internalID: -3523967394014336211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_14
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 756
+        width: 366
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb2a4abb4d79a5d0800000000000000
+      internalID: -3050769508365358094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_15
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 930
+        width: 200
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53212c28c46990160800000000000000
+      internalID: 6992285151824843317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_16
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 887
+        width: 941
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da78c82db8e102a40800000000000000
+      internalID: 5341302743943120813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_17
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 885
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63638ebf49638e80800000000000000
+      internalID: -8177576707155074193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_18
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 885
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2622a600e2179040800000000000000
+      internalID: 4654209493303961132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_19
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 885
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8be0cb00ca547f10800000000000000
+      internalID: 2266536293351615373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 351
+        width: 1022
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc1a906cfda44e90800000000000000
+      internalID: -7042312617836536650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 149
+        width: 437
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3854aa68520413110800000000000000
+      internalID: 1238841902420870531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_22
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 160
+        width: 276
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d82f7ead355a7e00800000000000000
+      internalID: 1043239987098626265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_23
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 95
+        width: 1278
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2e307a8f15062d0800000000000000
+      internalID: -3287537599584673053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 157
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145d5c30a87daa0a0800000000000000
+      internalID: -6869441293831514815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_25
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 7
+        width: 129
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09506d5ddd7896200800000000000000
+      internalID: 173819447475570064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_26
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 20
+        width: 224
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b288c680e915731b0800000000000000
+      internalID: -5676979066089207765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_27
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 40
+        width: 137
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed30e350c792ce70800000000000000
+      internalID: 9134029846557507054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Botanic Panic_28
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 17
+        width: 109
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e1bed28795ac9e0800000000000000
+      internalID: -1600368344875458960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
