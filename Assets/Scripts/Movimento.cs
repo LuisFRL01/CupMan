@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Movimento : MonoBehaviour
@@ -15,9 +13,7 @@ public class Movimento : MonoBehaviour
     private Transform playerT;
     private Animator anim;
 
-    private bool noAr = false;
-    
-    public bool liberaPulo = false;
+    private bool liberaPulo = false;
 
     void Start()
     {
@@ -26,7 +22,6 @@ public class Movimento : MonoBehaviour
         anim = GetComponent<Animator>();
     }
 
-    // Update is called once per frame
     void FixedUpdate()
     {
         Movimentacao();
@@ -45,26 +40,31 @@ public class Movimento : MonoBehaviour
         playerT.localScale = scala;
     }
 
-    void AnimacaoPuloLateral(){
-        
+    void AnimacaoPuloLateral()
+    {
         anim.SetBool("idle", false);
-        anim.SetBool("pular", true);   
+        anim.SetBool("pular", true);
     }
 
-    void AnimacaoTiro(){
-        if (Input.GetKey(KeyCode.Z)){
+    void AnimacaoTiro()
+    {
+        if (Input.GetKey(KeyCode.Z))
+        {
             anim.SetBool("atirar", true);
         } else {
             anim.SetBool("atirar", false);
         }
     }
 
-    void AnimacaoIdle(){
+    void AnimacaoIdle()
+    {
             anim.SetBool("andar", false);
             anim.SetBool("idle", true);
             anim.SetBool("atirar", false);
     }
-    void Movimentacao(){        
+
+    void Movimentacao()
+    {        
         
         if(Input.GetKeyDown(KeyCode.Space))
         {
@@ -98,8 +98,8 @@ public class Movimento : MonoBehaviour
 
     }
 
-    
-    void OnCollisionEnter2D(Collision2D outro) {
+    void OnCollisionEnter2D(Collision2D outro) 
+    {
         if(outro.gameObject.CompareTag("chao"))
         {
             liberaPulo = true;
@@ -109,11 +109,11 @@ public class Movimento : MonoBehaviour
         }
     }
 
-    void OnCollisionExit2D(Collision2D outro) {
+    void OnCollisionExit2D(Collision2D outro) 
+    {
         if(outro.gameObject.CompareTag("chao"))
         {
             liberaPulo = false;            
         }
     }
-    
 }
