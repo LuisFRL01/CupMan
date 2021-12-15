@@ -27,9 +27,14 @@ public class Movimento : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
         Movimentacao();
+    }
+
+    void Update() 
+    {
+        AnimacaoTiro();
     }
 
     void Flip()
@@ -46,8 +51,8 @@ public class Movimento : MonoBehaviour
         anim.SetBool("pular", true);   
     }
 
-    void AnimacaoTiro(){        
-         if (Input.GetKey(KeyCode.Z)){
+    void AnimacaoTiro(){
+        if (Input.GetKey(KeyCode.Z)){
             anim.SetBool("atirar", true);
         } else {
             anim.SetBool("atirar", false);
@@ -60,8 +65,6 @@ public class Movimento : MonoBehaviour
             anim.SetBool("atirar", false);
     }
     void Movimentacao(){        
-
-        AnimacaoTiro();
         
         if(Input.GetKeyDown(KeyCode.Space))
         {
@@ -78,7 +81,7 @@ public class Movimento : MonoBehaviour
             }
             anim.SetBool("idle", false);
             anim.SetBool("andar", true);        
-            transform.Translate(new Vector3(vel * Time.deltaTime,0,0));
+            transform.Translate(new Vector3(vel * Time.fixedDeltaTime,0,0));
         } 
         else if(Input.GetKey(KeyCode.A))
         {   
@@ -87,7 +90,7 @@ public class Movimento : MonoBehaviour
             }      
             anim.SetBool("idle", false);
             anim.SetBool("andar", true);                     
-            transform.Translate(new Vector3(-vel * Time.deltaTime,0,0));
+            transform.Translate(new Vector3(-vel * Time.fixedDeltaTime,0,0));
         } 
         else {
             AnimacaoIdle();
