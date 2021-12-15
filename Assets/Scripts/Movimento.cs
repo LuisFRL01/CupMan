@@ -6,7 +6,7 @@ public class Movimento : MonoBehaviour
 {
     // Start is called before the first frame update
 
-    private float vel = 4.5f;
+    private float vel = 6f;
 
     private float forca = 10f;
     private Rigidbody2D Player;
@@ -17,7 +17,7 @@ public class Movimento : MonoBehaviour
 
     private bool noAr = false;
     
-    private bool liberaPulo = false;
+    public bool liberaPulo = false;
 
     void Start()
     {
@@ -29,8 +29,7 @@ public class Movimento : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Correr();
-        Pular();
+        Movimentacao();
     }
 
     void Flip()
@@ -47,11 +46,30 @@ public class Movimento : MonoBehaviour
         anim.SetBool("pular", true);   
     }
 
+    void AnimacaoTiro(){        
+         if (Input.GetKey(KeyCode.Z)){
+            anim.SetBool("atirar", true);
+        } else {
+            anim.SetBool("atirar", false);
+        }
+    }
+
     void AnimacaoIdle(){
             anim.SetBool("andar", false);
             anim.SetBool("idle", true);
+            anim.SetBool("atirar", false);
     }
-    void Correr(){        
+    void Movimentacao(){        
+
+        AnimacaoTiro();
+        
+        if(Input.GetKeyDown(KeyCode.Space))
+        {
+            if(liberaPulo != false){ 
+                AnimacaoPuloLateral();                          
+                Player.velocity = Vector2.up * forca;                
+            }
+        }
 
         if (Input.GetKey(KeyCode.D))
         { 
@@ -70,20 +88,11 @@ public class Movimento : MonoBehaviour
             anim.SetBool("idle", false);
             anim.SetBool("andar", true);                     
             transform.Translate(new Vector3(-vel * Time.deltaTime,0,0));
-        } else {
+        } 
+        else {
             AnimacaoIdle();
         }        
 
-    }
-
-    void Pular(){
-        if(Input.GetKeyDown(KeyCode.Space))
-        {
-            if(liberaPulo != false){ 
-                AnimacaoPuloLateral();                          
-                Player.velocity = Vector2.up * forca;                
-            }
-        }
     }
 
     
