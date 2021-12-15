@@ -4,7 +4,7 @@ public class Movimento : MonoBehaviour
 {
     // Start is called before the first frame update
 
-    private float vel = 4.5f;
+    private float vel = 6f;
 
     private float forca = 10f;
     private Rigidbody2D Player;
@@ -22,11 +22,14 @@ public class Movimento : MonoBehaviour
         anim = GetComponent<Animator>();
     }
 
-    // Update is called once per frame
     void FixedUpdate()
     {
-        Correr();
-        Pular();
+        Movimentacao();
+    }
+
+    void Update() 
+    {
+        AnimacaoTiro();
     }
 
     void Flip()
@@ -43,68 +46,74 @@ public class Movimento : MonoBehaviour
         anim.SetBool("pular", true);
     }
 
+    void AnimacaoTiro()
+    {
+        if (Input.GetKey(KeyCode.Z))
+        {
+            anim.SetBool("atirar", true);
+        } else {
+            anim.SetBool("atirar", false);
+        }
+    }
+
     void AnimacaoIdle()
     {
-        anim.SetBool("andar", false);
-        anim.SetBool("idle", true);
+            anim.SetBool("andar", false);
+            anim.SetBool("idle", true);
+            anim.SetBool("atirar", false);
     }
-    void Correr()
-    {
+
+    void Movimentacao()
+    {        
+        
+        if(Input.GetKeyDown(KeyCode.Space))
+        {
+            if(liberaPulo != false){ 
+                AnimacaoPuloLateral();                          
+                Player.velocity = Vector2.up * forca;                
+            }
+        }
+
         if (Input.GetKey(KeyCode.D))
-        {
-            if (!face)
-            {
-                Flip();
+        { 
+            if(!face){
+                Flip();            
             }
             anim.SetBool("idle", false);
-            anim.SetBool("andar", true);
-            transform.Translate(new Vector3(vel * Time.fixedDeltaTime, 0, 0));
-        }
-        else if (Input.GetKey(KeyCode.A))
-        {
-            if (face)
-            {
-                Flip();
-            }
+            anim.SetBool("andar", true);        
+            transform.Translate(new Vector3(vel * Time.fixedDeltaTime,0,0));
+        } 
+        else if(Input.GetKey(KeyCode.A))
+        {   
+            if(face){
+                Flip();            
+            }      
             anim.SetBool("idle", false);
-            anim.SetBool("andar", true);
-            transform.Translate(new Vector3(-vel * Time.fixedDeltaTime, 0, 0));
-        }
-        else
-        {
+            anim.SetBool("andar", true);                     
+            transform.Translate(new Vector3(-vel * Time.fixedDeltaTime,0,0));
+        } 
+        else {
             AnimacaoIdle();
-        }
+        }        
+
     }
 
-    void Pular()
+    void OnCollisionEnter2D(Collision2D outro) 
     {
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            if (liberaPulo != false)
-            {
-                AnimacaoPuloLateral();
-                Player.velocity = Vector2.up * forca;
-            }
-        }
-    }
-
-
-    void OnCollisionEnter2D(Collision2D outro)
-    {
-        if (outro.gameObject.CompareTag("chao"))
+        if(outro.gameObject.CompareTag("chao"))
         {
             liberaPulo = true;
             anim.SetBool("idle", true);
-            anim.SetBool("pular", false);
+            anim.SetBool("pular", false); 
 
         }
     }
 
-    void OnCollisionExit2D(Collision2D outro)
+    void OnCollisionExit2D(Collision2D outro) 
     {
-        if (outro.gameObject.CompareTag("chao"))
+        if(outro.gameObject.CompareTag("chao"))
         {
-            liberaPulo = false;
+            liberaPulo = false;            
         }
     }
 }
