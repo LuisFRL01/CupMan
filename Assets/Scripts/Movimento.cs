@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Movimento : MonoBehaviour
@@ -15,8 +13,6 @@ public class Movimento : MonoBehaviour
     private Transform playerT;
     private Animator anim;
 
-    private bool noAr = false;
-    
     private bool liberaPulo = false;
 
     void Start()
@@ -27,7 +23,7 @@ public class Movimento : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
         Correr();
         Pular();
@@ -41,67 +37,74 @@ public class Movimento : MonoBehaviour
         playerT.localScale = scala;
     }
 
-    void AnimacaoPuloLateral(){
-        
+    void AnimacaoPuloLateral()
+    {
         anim.SetBool("idle", false);
-        anim.SetBool("pular", true);   
+        anim.SetBool("pular", true);
     }
 
-    void AnimacaoIdle(){
-            anim.SetBool("andar", false);
-            anim.SetBool("idle", true);
+    void AnimacaoIdle()
+    {
+        anim.SetBool("andar", false);
+        anim.SetBool("idle", true);
     }
-    void Correr(){        
-
+    void Correr()
+    {
         if (Input.GetKey(KeyCode.D))
-        { 
-            if(!face){
-                Flip();            
+        {
+            if (!face)
+            {
+                Flip();
             }
             anim.SetBool("idle", false);
-            anim.SetBool("andar", true);        
-            transform.Translate(new Vector3(vel * Time.deltaTime,0,0));
-        } 
-        else if(Input.GetKey(KeyCode.A))
-        {   
-            if(face){
-                Flip();            
-            }      
+            anim.SetBool("andar", true);
+            transform.Translate(new Vector3(vel * Time.fixedDeltaTime, 0, 0));
+        }
+        else if (Input.GetKey(KeyCode.A))
+        {
+            if (face)
+            {
+                Flip();
+            }
             anim.SetBool("idle", false);
-            anim.SetBool("andar", true);                     
-            transform.Translate(new Vector3(-vel * Time.deltaTime,0,0));
-        } else {
+            anim.SetBool("andar", true);
+            transform.Translate(new Vector3(-vel * Time.fixedDeltaTime, 0, 0));
+        }
+        else
+        {
             AnimacaoIdle();
-        }        
-
+        }
     }
 
-    void Pular(){
-        if(Input.GetKeyDown(KeyCode.Space))
+    void Pular()
+    {
+        if (Input.GetKeyDown(KeyCode.Space))
         {
-            if(liberaPulo != false){ 
-                AnimacaoPuloLateral();                          
-                Player.velocity = Vector2.up * forca;                
+            if (liberaPulo != false)
+            {
+                AnimacaoPuloLateral();
+                Player.velocity = Vector2.up * forca;
             }
         }
     }
 
-    
-    void OnCollisionEnter2D(Collision2D outro) {
-        if(outro.gameObject.CompareTag("chao"))
+
+    void OnCollisionEnter2D(Collision2D outro)
+    {
+        if (outro.gameObject.CompareTag("chao"))
         {
             liberaPulo = true;
             anim.SetBool("idle", true);
-            anim.SetBool("pular", false); 
+            anim.SetBool("pular", false);
 
         }
     }
 
-    void OnCollisionExit2D(Collision2D outro) {
-        if(outro.gameObject.CompareTag("chao"))
+    void OnCollisionExit2D(Collision2D outro)
+    {
+        if (outro.gameObject.CompareTag("chao"))
         {
-            liberaPulo = false;            
+            liberaPulo = false;
         }
     }
-    
 }

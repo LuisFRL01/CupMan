@@ -1,0 +1,1153 @@
+fileFormatVersion: 2
+guid: 3f3aa3fc92a908748bb609faccdce7d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1931215813258936762
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_0
+  - first:
+      213: -7200888207180306856
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_1
+  - first:
+      213: -4290350614274223967
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_2
+  - first:
+      213: 9218211536737156332
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_3
+  - first:
+      213: 3998987558370797302
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_4
+  - first:
+      213: -4981876207054872675
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_5
+  - first:
+      213: 423112105879190112
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_6
+  - first:
+      213: 5114450537388403950
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_7
+  - first:
+      213: -5403949115103871493
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_8
+  - first:
+      213: -113997409471425105
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_9
+  - first:
+      213: 4475086831744619699
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_10
+  - first:
+      213: -2144203462572479006
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_11
+  - first:
+      213: -2492097418232400013
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_12
+  - first:
+      213: 3376668751411080946
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_13
+  - first:
+      213: 6568017576141014896
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_14
+  - first:
+      213: 4167966537190158485
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_15
+  - first:
+      213: 3876111476022078265
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_16
+  - first:
+      213: 7462381103498697600
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_17
+  - first:
+      213: 2489815054552529743
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_18
+  - first:
+      213: -7762168957408812887
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_19
+  - first:
+      213: 1215929250341552727
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_20
+  - first:
+      213: -3860817044978258796
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_21
+  - first:
+      213: -5666453531929786752
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_22
+  - first:
+      213: -4215006315948462957
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_23
+  - first:
+      213: -7342920543254867683
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_24
+  - first:
+      213: -3704781700605835942
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_25
+  - first:
+      213: 2885626361279171556
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_26
+  - first:
+      213: 265818238618658404
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_27
+  - first:
+      213: 9159892527935100660
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_28
+  - first:
+      213: 4230886243380022951
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_29
+  - first:
+      213: -5847605674486891158
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_30
+  - first:
+      213: -4608054919231407904
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_31
+  - first:
+      213: 5258956176466338837
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_32
+  - first:
+      213: -6360325870072188622
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_33
+  - first:
+      213: -2307829925580216676
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_34
+  - first:
+      213: 6584175657548319250
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_35
+  - first:
+      213: 1568567539046733558
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_36
+  - first:
+      213: -7112223883553848152
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_37
+  - first:
+      213: 2150603482884860521
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_38
+  - first:
+      213: -7178183201744282576
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_39
+  - first:
+      213: 5766096891932604647
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_40
+  - first:
+      213: 9177970896479624698
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1971
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e751a2371f235e0800000000000000
+      internalID: -1931215813258936762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1974
+        width: 274
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856e7b7d35e411c90800000000000000
+      internalID: -7200888207180306856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_2
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1855
+        width: 33
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a05e4af8dc9574c0800000000000000
+      internalID: -4290350614274223967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_3
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1544
+        width: 754
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec30af6d8aadef70800000000000000
+      internalID: 9218211536737156332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1511
+        width: 674
+        height: 461
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6e5ed2ff14f7730800000000000000
+      internalID: 3998987558370797302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1967
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f168b1cf1dcdab0800000000000000
+      internalID: -4981876207054872675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1970
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ab813f7323fd500800000000000000
+      internalID: 423112105879190112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_7
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1963
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec675e8aad2af640800000000000000
+      internalID: 5114450537388403950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_8
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1851
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd72f149e05105b0800000000000000
+      internalID: -5403949115103871493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_9
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1851
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa51427c5fffa6ef0800000000000000
+      internalID: -113997409471425105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_10
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1778
+        width: 112
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b49a2173c3ba1e30800000000000000
+      internalID: 4475086831744619699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_11
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1791
+        width: 451
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed643faf424e32e0800000000000000
+      internalID: -2144203462572479006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_12
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1459
+        width: 552
+        height: 347
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97, y: -162.5}
+        - {x: -256, y: -140.5}
+        - {x: -236, y: 139.5}
+        - {x: -73, y: 166.5}
+        - {x: 65, y: 166.5}
+        - {x: 222, y: 156.5}
+        - {x: 109, y: -125.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377f6901a9a4a6dd0800000000000000
+      internalID: -2492097418232400013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_13
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1779
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fee40cc6565cde20800000000000000
+      internalID: 3376668751411080946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1676
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0774868cf29462b50800000000000000
+      internalID: 6568017576141014896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_15
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 1063
+        width: 383
+        height: 676
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5903fe49b7797d930800000000000000
+      internalID: 4167966537190158485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1235
+        width: 930
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -455, y: -123}
+        - {x: -465, y: 153}
+        - {x: -41, y: 150}
+        - {x: 103, y: 53}
+        - {x: 420, y: 37}
+        - {x: 451, y: 32}
+        - {x: 443, y: -127}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b6c16d9d6bac530800000000000000
+      internalID: 3876111476022078265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_17
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1309
+        width: 232
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b90a48314bf8760800000000000000
+      internalID: 7462381103498697600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_18
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 858
+        width: 509
+        height: 683
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bf50bb9999d8220800000000000000
+      internalID: 2489815054552529743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_19
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 1366
+        width: 153
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0651f757c374490800000000000000
+      internalID: -7762168957408812887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_20
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1472
+        width: 56
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7528d9ef539dfd010800000000000000
+      internalID: 1215929250341552727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 911
+        width: 811
+        height: 351
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: -132.5}
+        - {x: -232.5, y: -161.5}
+        - {x: -405.5, y: -175.5}
+        - {x: -405.5, y: 157.5}
+        - {x: 405.5, y: 166.5}
+        - {x: 405.5, y: 47.5}
+        - {x: 321.5, y: -69.5}
+        - {x: 234.5, y: -118.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c2c436a5f9b6ac0800000000000000
+      internalID: -3860817044978258796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_22
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 754
+        width: 537
+        height: 631
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086411de886bc51b0800000000000000
+      internalID: -5666453531929786752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_23
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 1078
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c2dd3761a4185c0800000000000000
+      internalID: -4215006315948462957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_24
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 956
+        width: 142
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11106d9ba4b81a90800000000000000
+      internalID: -7342920543254867683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_25
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 1081
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55850d0ca8f59cc0800000000000000
+      internalID: -3704781700605835942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 581
+        width: 861
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -430.5, y: -153}
+        - {x: -430.5, y: 184}
+        - {x: -260.5, y: 152}
+        - {x: -158.5, y: 170}
+        - {x: -136.5, y: 101}
+        - {x: -74.5, y: 82}
+        - {x: 347.5, y: -44}
+        - {x: 364.5, y: -168}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb4c8a03edcb0820800000000000000
+      internalID: 2885626361279171556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_27
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 938
+        width: 138
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4666fa7974060b300800000000000000
+      internalID: 265818238618658404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_28
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 428
+        width: 794
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -203, y: -103}
+        - {x: -239, y: -51}
+        - {x: -375, y: -33}
+        - {x: -310, y: 206}
+        - {x: 397, y: 215}
+        - {x: 397, y: -143}
+        - {x: 108, y: -167}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6935419b97e1f70800000000000000
+      internalID: 9159892527935100660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_29
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 850
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aec0c54f9027ba30800000000000000
+      internalID: 4230886243380022951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_30
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 285
+        width: 474
+        height: 639
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d76a9fe9129dea0800000000000000
+      internalID: -5847605674486891158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1062
+        height: 644
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e878b92776ec00c0800000000000000
+      internalID: -4608054919231407904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_32
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 320
+        width: 141
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5146f9387c09bf840800000000000000
+      internalID: 5258956176466338837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_33
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 364
+        width: 156
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231be92d1559bb7a0800000000000000
+      internalID: -6360325870072188622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_34
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 317
+        width: 282
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9666cbf8e0f8ffd0800000000000000
+      internalID: -2307829925580216676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_35
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 320
+        width: 207
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a01f640e0bf5b50800000000000000
+      internalID: 6584175657548319250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_36
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 73
+        width: 217
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6d61bbddba4c510800000000000000
+      internalID: 1568567539046733558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_37
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 0
+        width: 731
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a449b16f0e4c4d90800000000000000
+      internalID: -7112223883553848152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_38
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 115
+        width: 147
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ae11a297a78dd10800000000000000
+      internalID: 2150603482884860521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_39
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 260
+        width: 64
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c1b5fd868f16c90800000000000000
+      internalID: -7178183201744282576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_40
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 2
+        width: 141
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e87028b29a450050800000000000000
+      internalID: 5766096891932604647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103033_41
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 2
+        width: 144
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd9a8347e3be5f70800000000000000
+      internalID: 9177970896479624698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
