@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 876b40da12b289b4cac4ff9f1b45e150
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5303364747009528496
+    second: SpriteAtlasTexture-Platforming_Beetle-1024x1024-fmt12_0
+  - first:
+      213: 442037880432522353
+    second: SpriteAtlasTexture-Platforming_Beetle-1024x1024-fmt12_1
+  - first:
+      213: -7046271078878784123
+    second: SpriteAtlasTexture-Platforming_Beetle-1024x1024-fmt12_2
+  - first:
+      213: -1324466584402097777
+    second: SpriteAtlasTexture-Platforming_Beetle-1024x1024-fmt12_3
+  - first:
+      213: 6815265828879254046
+    second: SpriteAtlasTexture-Platforming_Beetle-1024x1024-fmt12_4
+  - first:
+      213: -2054132584102154138
+    second: SpriteAtlasTexture-Platforming_Beetle-1024x1024-fmt12_5
+  - first:
+      213: 3240538644371538704
+    second: SpriteAtlasTexture-Platforming_Beetle-1024x1024-fmt12_6
+  - first:
+      213: -8509204068267851206
+    second: SpriteAtlasTexture-Platforming_Beetle-1024x1024-fmt12_7
+  - first:
+      213: 4460725578993961852
+    second: SpriteAtlasTexture-Platforming_Beetle-1024x1024-fmt12_8
+  - first:
+      213: 2102226102109081095
+    second: SpriteAtlasTexture-Platforming_Beetle-1024x1024-fmt12_9
+  - first:
+      213: 2106440338000779933
+    second: SpriteAtlasTexture-Platforming_Beetle-1024x1024-fmt12_10
+  - first:
+      213: 7602134180739932634
+    second: SpriteAtlasTexture-Platforming_Beetle-1024x1024-fmt12_11
+  - first:
+      213: 419980180016400356
+    second: SpriteAtlasTexture-Platforming_Beetle-1024x1024-fmt12_12
+  - first:
+      213: -8797985827239171429
+    second: SpriteAtlasTexture-Platforming_Beetle-1024x1024-fmt12_13
+  - first:
+      213: -8383661608804036897
+    second: SpriteAtlasTexture-Platforming_Beetle-1024x1024-fmt12_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Beetle-1024x1024-fmt12_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 748
+        width: 168
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05dea2c6cd9a666b0800000000000000
+      internalID: -5303364747009528496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Beetle-1024x1024-fmt12_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 836
+        width: 164
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17472783c1f622600800000000000000
+      internalID: 442037880432522353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Beetle-1024x1024-fmt12_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 596
+        width: 166
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585525859cd963e90800000000000000
+      internalID: -7046271078878784123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Beetle-1024x1024-fmt12_3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 601
+        width: 162
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8986d7a8ac8e9de0800000000000000
+      internalID: -1324466584402097777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Beetle-1024x1024-fmt12_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 307
+        width: 168
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12c43c9920b49e50800000000000000
+      internalID: 6815265828879254046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Beetle-1024x1024-fmt12_5
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 446
+        width: 162
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660390b4c414e73e0800000000000000
+      internalID: -2054132584102154138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Beetle-1024x1024-fmt12_6
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 446
+        width: 152
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01301ba5ab4b8fc20800000000000000
+      internalID: 3240538644371538704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Beetle-1024x1024-fmt12_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 165
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32069dcbfb39e980800000000000000
+      internalID: -8509204068267851206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Beetle-1024x1024-fmt12_8
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 154
+        width: 168
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b0f68b74ea7ed30800000000000000
+      internalID: 4460725578993961852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Beetle-1024x1024-fmt12_9
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 292
+        width: 174
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e04c5708b9c2d10800000000000000
+      internalID: 2102226102109081095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Beetle-1024x1024-fmt12_10
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 267
+        width: 177
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a1717b3549b3d10800000000000000
+      internalID: 2106440338000779933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Beetle-1024x1024-fmt12_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 173
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1ebd172c4308960800000000000000
+      internalID: 7602134180739932634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Beetle-1024x1024-fmt12_12
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2
+        width: 153
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e70592afb114d500800000000000000
+      internalID: 419980180016400356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Beetle-1024x1024-fmt12_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 176
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9aec7cf08647e580800000000000000
+      internalID: -8797985827239171429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Beetle-1024x1024-fmt12_14
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 115
+        width: 173
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdec7227f2047ab80800000000000000
+      internalID: -8383661608804036897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
