@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 3191765026774369489}
   - component: {fileID: 4960109951667682831}
   - component: {fileID: -3344785203889930194}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: meio_chao_elevado2
   m_TagString: chao
   m_Icon: {fileID: 0}

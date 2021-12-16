@@ -8,8 +8,10 @@ TagManager:
   - espinho
   - inimigo
   - bala
-  - fimJogo
   - morte
+  - moeda
+  - fimJogo
+  - morto
   layers:
   - Default
   - TransparentFX
@@ -18,7 +20,7 @@ TagManager:
   - Water
   - UI
   - Montanha
-  - 
+  - layerInimigo
   - 
   - 
   - 

@@ -34,15 +34,21 @@ public class Movimento : MonoBehaviour
     }
 
     void FixedUpdate()
-    {        
-        Movimentacao();        
+    {       
+        if(!anim.GetBool("morto"))
+        { 
+            Movimentacao();
+        }        
     }
 
     void Update() 
     {
-        Pulo();
-        AnimacaoTiro();
-        Atirar();
+        if (!anim.GetBool("morto"))
+        {
+            Pulo();
+            AnimacaoTiro();
+            Atirar();
+        }
     }
 
     void Flip()
@@ -79,10 +85,11 @@ public class Movimento : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            if (liberaPulo != false)
-            {
+            if(liberaPulo != false)
+            { 
                 AnimacaoPuloLateral();
                 Player.velocity = Vector2.up * forca;
+                liberaPulo = false;
             }
         }
     }
@@ -135,18 +142,25 @@ public class Movimento : MonoBehaviour
             anim.SetBool("idle", true);
             anim.SetBool("pular", false);
         }
-
-        if (outro.gameObject.CompareTag("morte"))
+        else if (outro.gameObject.CompareTag("inimigo") || outro.gameObject.CompareTag("morte"))
         {
-            Player.velocity = Vector2.zero;
+            anim.SetBool("morto", true);
+            Invoke("DestruirPlayer", 2.0f);
+        }
+        else if (outro.gameObject.CompareTag("moeda"))
+        {
+            Destroy(outro.gameObject);
+        }
+
+
+        if (outro.gameObject.CompareTag("morto"))
+        {
+            anim.SetBool("morto", true);
+            Invoke("DestruirPlayer", 2.0f);
         }
     }
 
-    void OnCollisionExit2D(Collision2D outro) 
-    {
-        if(outro.gameObject.CompareTag("chao"))
-        {
-            liberaPulo = false;
-        }
-    }
+    void DestruirPlayer(){
+        Destroy(gameObject);
+    }  
 }

@@ -80,5 +80,5 @@ public class GameController : MonoBehaviour
         completeGameUI.SetActive(true);
         audioSourceMusicaFundo.Pause();
         playFimLevel();
-    } 
+    }
 }

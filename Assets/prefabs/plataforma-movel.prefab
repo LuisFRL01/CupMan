@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 5201589169326003275}
   - component: {fileID: 1091769506096094114}
   - component: {fileID: 7341344132451819820}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: plataforma-movel
   m_TagString: chao
   m_Icon: {fileID: 0}
