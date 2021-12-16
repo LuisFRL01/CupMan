@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 6172815212835883381}
   - component: {fileID: 752011574587081192}
   - component: {fileID: -8725335688483557860}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: plataforma-movel2
   m_TagString: Untagged
   m_Icon: {fileID: 0}

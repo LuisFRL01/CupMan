@@ -12,7 +12,8 @@ GameObject:
   - component: {fileID: 2942882202019122760}
   - component: {fileID: 1608014609627792847}
   - component: {fileID: 6541136862707079491}
-  m_Layer: 0
+  - component: {fileID: -6031963810802029181}
+  m_Layer: 7
   m_Name: abelha
   m_TagString: inimigo
   m_Icon: {fileID: 0}
@@ -129,3 +130,15 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.452739, y: 1.3542709}
   m_EdgeRadius: 0
+--- !u!114 &-6031963810802029181
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 351023227004277732}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f8f6d742ea11a3409d1e72167b85dc2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

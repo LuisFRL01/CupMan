@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - chao
+  - espinho
+  - inimigo
+  - bala
+  - morte
+  - moeda
   layers:
   - Default
   - TransparentFX
@@ -13,7 +18,7 @@ TagManager:
   - Water
   - UI
   - Montanha
-  - 
+  - layerInimigo
   - 
   - 
   - 

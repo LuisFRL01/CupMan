@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4782551724109673618}
   - component: {fileID: 4526486023943113669}
   - component: {fileID: 5424858585094134907}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: monte2
   m_TagString: chao
   m_Icon: {fileID: 0}

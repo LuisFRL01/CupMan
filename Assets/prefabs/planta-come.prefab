@@ -12,7 +12,10 @@ GameObject:
   - component: {fileID: 4884280904742490369}
   - component: {fileID: 2583704137184838361}
   - component: {fileID: 8542772312623351658}
-  m_Layer: 0
+  - component: {fileID: 8451565120594917275}
+  - component: {fileID: -8230726572844120327}
+  - component: {fileID: 7303669377551602119}
+  m_Layer: 7
   m_Name: planta-come
   m_TagString: inimigo
   m_Icon: {fileID: 0}
@@ -129,3 +132,49 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.7382507, y: 2.2275906}
   m_EdgeRadius: 0
+--- !u!114 &8451565120594917275
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6456536736753551859}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f8f6d742ea11a3409d1e72167b85dc2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &-8230726572844120327
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6456536736753551859}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00ff56164d190014a82e88dd3f9af2cd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  face: 1
+--- !u!50 &7303669377551602119
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6456536736753551859}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 0.0001
+  m_LinearDrag: 0
+  m_AngularDrag: 0
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
