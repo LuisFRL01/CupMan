@@ -151,13 +151,6 @@ public class Movimento : MonoBehaviour
         {
             Destroy(outro.gameObject);
         }
-
-
-        if (outro.gameObject.CompareTag("morto"))
-        {
-            anim.SetBool("morto", true);
-            Invoke("DestruirPlayer", 2.0f);
-        }
     }
 
     void DestruirPlayer(){

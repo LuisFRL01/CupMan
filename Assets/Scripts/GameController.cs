@@ -71,8 +71,7 @@ public class GameController : MonoBehaviour
 
     public void playFimLevel()
     {
-        audioSourceFimLevel.clip = fimLevel;
-        audioSourceFimLevel.Play();
+        audioSourceFimLevel.PlayOneShot(fimLevel, 0.4f);
     }
 
     public void CompleteLevel()
