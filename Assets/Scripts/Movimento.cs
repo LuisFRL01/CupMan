@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Movimento : MonoBehaviour
@@ -15,9 +13,7 @@ public class Movimento : MonoBehaviour
     private Transform playerT;
     private Animator anim;
 
-    private bool noAr = false;
-    
-    public bool liberaPulo = false;
+    private bool liberaPulo = false;
 
     public Transform Arma;
     public GameObject balaPrefab;
@@ -37,7 +33,6 @@ public class Movimento : MonoBehaviour
         tempoDisparo = 0.2f;
     }
 
-    // Update is called once per frame
     void FixedUpdate()
     {        
         Movimentacao();        
@@ -59,26 +54,28 @@ public class Movimento : MonoBehaviour
         playerT.localScale = scala;
     }
 
-    void AnimacaoPuloLateral(){
-        
+    void AnimacaoPuloLateral()
+    {
         anim.SetBool("idle", false);
-        anim.SetBool("pular", true);   
+        anim.SetBool("pular", true);
     }
 
-    void AnimacaoTiro(){
-        if (Input.GetKey(KeyCode.Z)){
+    void AnimacaoTiro()
+    {
+        if (Input.GetKey(KeyCode.Z))
+        {
             anim.SetBool("atirar", true);
         } else {
             anim.SetBool("atirar", false);
         }
     }
 
-    void AnimacaoIdle(){
+    void AnimacaoIdle()
+    {
             anim.SetBool("andar", false);
             anim.SetBool("idle", true);
             anim.SetBool("atirar", false);
     }
-
     void Pulo(){
         if(Input.GetKeyDown(KeyCode.Space))
         {
@@ -115,7 +112,6 @@ public class Movimento : MonoBehaviour
         }        
 
     }
-
     void Atirar(){       
 
         if(Input.GetKey(KeyCode.Z) && Time.time > proximoTiro){
@@ -140,11 +136,11 @@ public class Movimento : MonoBehaviour
         }
     }
 
-    void OnCollisionExit2D(Collision2D outro) {
+    void OnCollisionExit2D(Collision2D outro) 
+    {
         if(outro.gameObject.CompareTag("chao"))
         {
             liberaPulo = false;            
         }
     }
-    
 }
