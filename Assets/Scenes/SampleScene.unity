@@ -287,6 +287,36 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &363023900
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 363023901}
+  m_Layer: 0
+  m_Name: Arma
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &363023901
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 363023900}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.23, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1993215484}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &479231041
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -724,8 +754,12 @@ PrefabInstance:
       value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2557202520691625902, guid: f2cbaccf98ccaa34291319c2fb26eeac, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.0697
+      objectReference: {fileID: 0}
+    - target: {fileID: 2557202520691625902, guid: f2cbaccf98ccaa34291319c2fb26eeac, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 20.420002
+      value: 19.7061
       objectReference: {fileID: 0}
     - target: {fileID: 2557202520691625902, guid: f2cbaccf98ccaa34291319c2fb26eeac, type: 3}
       propertyPath: m_LocalPosition.y
@@ -835,11 +869,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2557202520691625902, guid: f2cbaccf98ccaa34291319c2fb26eeac, type: 3}
       propertyPath: m_RootOrder
-      value: 5
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2557202520691625902, guid: f2cbaccf98ccaa34291319c2fb26eeac, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.9082
       objectReference: {fileID: 0}
     - target: {fileID: 2557202520691625902, guid: f2cbaccf98ccaa34291319c2fb26eeac, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.010001212
+      value: -0.9293
       objectReference: {fileID: 0}
     - target: {fileID: 2557202520691625902, guid: f2cbaccf98ccaa34291319c2fb26eeac, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1104,6 +1142,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6ed71b31c096b8d4482a36897810284c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  face: 1
+  liberaPulo: 0
+  Arma: {fileID: 363023901}
+  balaPrefab: {fileID: 4803207614674846718, guid: b5e8cb04172cb794199bbc803a4f2302, type: 3}
+  velocidadeBala: 10
+  tempoDisparo: 0.2
+  proximoTiro: 0
 --- !u!212 &1993215483
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1165,9 +1210,10 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -1.32, y: -11.05, z: 0}
   m_LocalScale: {x: 3, y: 3, z: 1}
-  m_Children: []
+  m_Children:
+  - {fileID: 363023901}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1993215485
 BoxCollider2D:

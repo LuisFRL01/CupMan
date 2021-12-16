@@ -11,7 +11,7 @@ public class Movimento : MonoBehaviour
     private float forca = 10f;
     private Rigidbody2D Player;
 
-    private bool face = true;
+    public bool face = true;
     private Transform playerT;
     private Animator anim;
 
@@ -19,22 +19,36 @@ public class Movimento : MonoBehaviour
     
     public bool liberaPulo = false;
 
+    public Transform Arma;
+    public GameObject balaPrefab;
+
+    private float velocidadeBala;
+
+    private float tempoDisparo;
+
+    private float proximoTiro;
+
     void Start()
     {
         Player = transform.GetComponent<Rigidbody2D>();
         playerT = GetComponent<Transform>();
         anim = GetComponent<Animator>();
+        velocidadeBala = 10f;
+        tempoDisparo = 0.2f;
     }
 
     // Update is called once per frame
     void FixedUpdate()
-    {
-        Movimentacao();
+    {        
+        Movimentacao();        
     }
 
     void Update() 
     {
+        Pulo();
         AnimacaoTiro();
+        Atirar();
+
     }
 
     void Flip()
@@ -64,8 +78,8 @@ public class Movimento : MonoBehaviour
             anim.SetBool("idle", true);
             anim.SetBool("atirar", false);
     }
-    void Movimentacao(){        
-        
+
+    void Pulo(){
         if(Input.GetKeyDown(KeyCode.Space))
         {
             if(liberaPulo != false){ 
@@ -73,6 +87,10 @@ public class Movimento : MonoBehaviour
                 Player.velocity = Vector2.up * forca;                
             }
         }
+    }
+
+    void Movimentacao(){        
+        
 
         if (Input.GetKey(KeyCode.D))
         { 
@@ -96,6 +114,19 @@ public class Movimento : MonoBehaviour
             AnimacaoIdle();
         }        
 
+    }
+
+    void Atirar(){       
+
+        if(Input.GetKey(KeyCode.Z) && Time.time > proximoTiro){
+            proximoTiro = Time.time + tempoDisparo;
+            GameObject bala = Instantiate(balaPrefab, Arma.position, transform.rotation);  
+            if(face){
+                bala.GetComponent<Rigidbody2D>().velocity = new Vector2(velocidadeBala, 0);
+            } else {
+                bala.GetComponent<Rigidbody2D>().velocity = new Vector2(-velocidadeBala, 0);
+            }
+        }
     }
 
     
