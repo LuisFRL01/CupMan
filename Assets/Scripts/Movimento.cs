@@ -29,6 +29,14 @@ public class Movimento : MonoBehaviour
 
     void Update() 
     {
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            if (liberaPulo != false)
+            {
+                AnimacaoPuloLateral();
+                Player.velocity = Vector2.up * forca;
+            }
+        }
         AnimacaoTiro();
     }
 
@@ -65,15 +73,6 @@ public class Movimento : MonoBehaviour
 
     void Movimentacao()
     {        
-        
-        if(Input.GetKeyDown(KeyCode.Space))
-        {
-            if(liberaPulo != false){ 
-                AnimacaoPuloLateral();                          
-                Player.velocity = Vector2.up * forca;                
-            }
-        }
-
         if (Input.GetKey(KeyCode.D))
         { 
             if(!face){
@@ -113,7 +112,7 @@ public class Movimento : MonoBehaviour
     {
         if(outro.gameObject.CompareTag("chao"))
         {
-            liberaPulo = false;            
+            liberaPulo = false;
         }
     }
 }

@@ -1,0 +1,1123 @@
+fileFormatVersion: 2
+guid: 562f592ed38b14641b7af8e65ec7948f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5207028131706399224
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_0
+  - first:
+      213: -1985044515867003968
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_1
+  - first:
+      213: -1957293036282155562
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_2
+  - first:
+      213: 7995604334380071437
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_3
+  - first:
+      213: -835805121504860863
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_4
+  - first:
+      213: 3315272834605413450
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_5
+  - first:
+      213: 8873795943574777755
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_6
+  - first:
+      213: -6247610251127494244
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_7
+  - first:
+      213: -3621832809304644040
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_8
+  - first:
+      213: 8910963287932635442
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_9
+  - first:
+      213: -3870372428871589267
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_10
+  - first:
+      213: 5496043905518396145
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_11
+  - first:
+      213: -2508126033434260436
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_12
+  - first:
+      213: 713869635464218847
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_13
+  - first:
+      213: -6782037298557333622
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_14
+  - first:
+      213: -3349969960236886233
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_15
+  - first:
+      213: 3566862709025144748
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_16
+  - first:
+      213: -330638128384632112
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_17
+  - first:
+      213: -7030605353021359666
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_18
+  - first:
+      213: -4066816364514363755
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_19
+  - first:
+      213: 5756934074895743522
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_20
+  - first:
+      213: 4219904120267862934
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_21
+  - first:
+      213: -4514261282785189624
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_22
+  - first:
+      213: -3944861975731031610
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_23
+  - first:
+      213: 6437448000371311346
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_24
+  - first:
+      213: -1949841009988017606
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_25
+  - first:
+      213: 937220572661528270
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_26
+  - first:
+      213: -2088868675077507582
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_27
+  - first:
+      213: 598800947636276299
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_28
+  - first:
+      213: 1580361686031013893
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_29
+  - first:
+      213: 5216764093480964253
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_30
+  - first:
+      213: -7388237901003233492
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_31
+  - first:
+      213: 4330063696790931158
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_32
+  - first:
+      213: -3376257768413517257
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_33
+  - first:
+      213: -1145529292653109802
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_34
+  - first:
+      213: 2433183778268170359
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_35
+  - first:
+      213: 4029427671893759903
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_36
+  - first:
+      213: 3612079732504229368
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_37
+  - first:
+      213: 5264800860056861160
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_38
+  - first:
+      213: -579229169404044333
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_39
+  - first:
+      213: -3360468834161039769
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_40
+  - first:
+      213: 3712241159046115018
+    second: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 112
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8069c22908becb7b0800000000000000
+      internalID: -5207028131706399224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 472
+        width: 133
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3f860b784b374e0800000000000000
+      internalID: -1985044515867003968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 549
+        width: 124
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd6e0b8a5c46d4e0800000000000000
+      internalID: -1957293036282155562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 458
+        width: 112
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a3c4397c716fe60800000000000000
+      internalID: 7995604334380071437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_4
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 435
+        width: 107
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14520479baf9664f0800000000000000
+      internalID: -835805121504860863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_5
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 408
+        width: 117
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a447828f317320e20800000000000000
+      internalID: 3315272834605413450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_6
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 322
+        width: 125
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fa312356e062b70800000000000000
+      internalID: 8873795943574777755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 303
+        width: 138
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99e47ee3970c49a0800000000000000
+      internalID: -6247610251127494244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 320
+        width: 110
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836aa8dcf3aacbdc0800000000000000
+      internalID: -3621832809304644040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_9
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 319
+        width: 108
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23985c7e5e91aab70800000000000000
+      internalID: 8910963287932635442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_10
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 304
+        width: 108
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62a4a438cca94ac0800000000000000
+      internalID: -3870372428871589267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_11
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 388
+        width: 132
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2ef5210ded54c40800000000000000
+      internalID: 5496043905518396145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_12
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 307
+        width: 102
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ccd3549a8513dd0800000000000000
+      internalID: -2508126033434260436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 124
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd848c5b6ac28e900800000000000000
+      internalID: 713869635464218847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_14
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 200
+        width: 106
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f4a0e720d51e1a0800000000000000
+      internalID: -6782037298557333622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 203
+        width: 112
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727d9dfe1148281d0800000000000000
+      internalID: -3349969960236886233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_16
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 276
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caff70e5cba008130800000000000000
+      internalID: 3566862709025144748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_17
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 285
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da1f60cf56596bf0800000000000000
+      internalID: -330638128384632112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_18
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 285
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9b3316ea54e6e90800000000000000
+      internalID: -7030605353021359666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_19
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 283
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596306a3014cf87c0800000000000000
+      internalID: -4066816364514363755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_20
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 278
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ab0812a0db4ef40800000000000000
+      internalID: 5756934074895743522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_21
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 267
+        width: 112
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693f5ca707c109a30800000000000000
+      internalID: 4219904120267862934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_22
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 259
+        width: 104
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8012a48e74f1a51c0800000000000000
+      internalID: -4514261282785189624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_23
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 152
+        width: 124
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c13b901fe80149c0800000000000000
+      internalID: -3944861975731031610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 234
+        width: 130
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f24e2a69d8665950800000000000000
+      internalID: 6437448000371311346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_25
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 135
+        width: 104
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32ec2f9ee5c0f4e0800000000000000
+      internalID: -1949841009988017606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 156
+        width: 108
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6bdad252da10d00800000000000000
+      internalID: 937220572661528270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_27
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 116
+        width: 104
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206709fd109d203e0800000000000000
+      internalID: -2088868675077507582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 195
+        width: 138
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c070f0a4e5f4800800000000000000
+      internalID: 598800947636276299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_29
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 48
+        width: 129
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.5, y: -72.5}
+        - {x: -64.5, y: 38.5}
+        - {x: -64.5, y: 74.5}
+        - {x: 64.5, y: 74.5}
+        - {x: 64.5, y: 32.5}
+        - {x: 64.5, y: -13.5}
+        - {x: 46.5, y: -74.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508148094929ee510800000000000000
+      internalID: 1580361686031013893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_30
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 56
+        width: 126
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9012fcad4ba56840800000000000000
+      internalID: 5216764093480964253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 124
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27ef9a06c4b77990800000000000000
+      internalID: -7388237901003233492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_32
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 130
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6c9069df9771c30800000000000000
+      internalID: 4330063696790931158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_33
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 135
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a2f83a27f1521d0800000000000000
+      internalID: -3376257768413517257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_34
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 0
+        width: 119
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd5b977d234a10f0800000000000000
+      internalID: -1145529292653109802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_35
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 2
+        width: 130
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778cae831c764c120800000000000000
+      internalID: 2433183778268170359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_36
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 130
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f975b576e176be730800000000000000
+      internalID: 4029427671893759903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_37
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 122
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f57d4c016fa02230800000000000000
+      internalID: 3612079732504229368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_38
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2
+        width: 110
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e93cd4fc74501940800000000000000
+      internalID: 5264800860056861160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_39
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 0
+        width: 103
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db902aa32a26f7f0800000000000000
+      internalID: -579229169404044333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_40
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 0
+        width: 108
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7666f0d56673d51d0800000000000000
+      internalID: -3360468834161039769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_acorn-1024x1024-fmt12_41
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2
+        width: 129
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace27857aa7848330800000000000000
+      internalID: 3712241159046115018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

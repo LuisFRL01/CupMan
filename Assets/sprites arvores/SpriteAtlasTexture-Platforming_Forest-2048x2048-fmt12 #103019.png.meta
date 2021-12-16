@@ -1,7 +1,25 @@
 fileFormatVersion: 2
 guid: 23c6a7f094d3d8346ba4574d70e6f8b8
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 4891913058937343078
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103019_0
+  - first:
+      213: 5837286629193081975
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103019_1
+  - first:
+      213: -1561865676167287369
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103019_2
+  - first:
+      213: 5874829376507102448
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103019_3
+  - first:
+      213: -6062710116590182107
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103019_4
+  - first:
+      213: -6864691518852590959
+    second: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103019_5
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -89,7 +107,133 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103019_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1832
+        width: 200
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c0e06320193e340800000000000000
+      internalID: 4891913058937343078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103019_1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 760
+        width: 1355
+        height: 1265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774e0311345320150800000000000000
+      internalID: 5837286629193081975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103019_2
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1019
+        width: 1013
+        height: 1029
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd6c215173235ae0800000000000000
+      internalID: -1561865676167287369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103019_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 2037
+        height: 751
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f44cb61136978150800000000000000
+      internalID: 5874829376507102448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103019_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 757
+        width: 744
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521a974454decdba0800000000000000
+      internalID: -6062710116590182107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Platforming_Forest-2048x2048-fmt12 #103019_5
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 0
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192972e2f67bbb0a0800000000000000
+      internalID: -6864691518852590959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

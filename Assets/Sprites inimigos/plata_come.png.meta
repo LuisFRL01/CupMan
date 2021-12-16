@@ -1,0 +1,1648 @@
+fileFormatVersion: 2
+guid: 9e47a9a27917e3446a4fc00ee4b256d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5146677303081539948
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_0
+  - first:
+      213: 9150473851936419650
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_1
+  - first:
+      213: -3679684486026642535
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_2
+  - first:
+      213: -4078677482683987525
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_3
+  - first:
+      213: -8670481370550109077
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_4
+  - first:
+      213: 3580780757508009884
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_5
+  - first:
+      213: 8799332305909872962
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_6
+  - first:
+      213: -8992345100122626888
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_7
+  - first:
+      213: 4592663804515033321
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_8
+  - first:
+      213: -8962902215712493733
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_9
+  - first:
+      213: -392841873781558407
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_10
+  - first:
+      213: -8832407725721844556
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_11
+  - first:
+      213: 7979546240878250037
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_12
+  - first:
+      213: -5822248118037880081
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_13
+  - first:
+      213: 8625776097362823669
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_14
+  - first:
+      213: 3216515260291929856
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_15
+  - first:
+      213: -2807653574676203608
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_16
+  - first:
+      213: -3451067056717804288
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_17
+  - first:
+      213: 2183400433324857003
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_18
+  - first:
+      213: 8014709198170191053
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_19
+  - first:
+      213: -3886532406652903752
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_20
+  - first:
+      213: 7054273903770772521
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_21
+  - first:
+      213: -7230523020124420222
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_22
+  - first:
+      213: 8155241008503998100
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_23
+  - first:
+      213: 3035984429482872119
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_24
+  - first:
+      213: 6260987229649924054
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_25
+  - first:
+      213: 8553837993573249365
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_26
+  - first:
+      213: -3626389494117551712
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_27
+  - first:
+      213: 6729817707201166205
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_28
+  - first:
+      213: -3880819887308590998
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_29
+  - first:
+      213: 1462789250340603875
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_30
+  - first:
+      213: 7515921758575812284
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_31
+  - first:
+      213: 8177116520297542806
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_32
+  - first:
+      213: -5397806143685002608
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_33
+  - first:
+      213: -6084299790661595962
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_34
+  - first:
+      213: -2333999847315791280
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_35
+  - first:
+      213: -8622994372323081512
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_36
+  - first:
+      213: -1574655807272066678
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_37
+  - first:
+      213: -6091603790832778063
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_38
+  - first:
+      213: 2646538145474031407
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_39
+  - first:
+      213: 5921605073605476940
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_40
+  - first:
+      213: -4847263013658940219
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_41
+  - first:
+      213: -7136219305848798927
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_42
+  - first:
+      213: -9129960073246659130
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_43
+  - first:
+      213: -2983426201180074714
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_44
+  - first:
+      213: 2297648818286526496
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_45
+  - first:
+      213: -6063808673252737620
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_46
+  - first:
+      213: -5132944262326919781
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_47
+  - first:
+      213: 9152159589877172137
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_48
+  - first:
+      213: -4326059124861136955
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_49
+  - first:
+      213: 3733656960562853810
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_50
+  - first:
+      213: 8369620246925773534
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_51
+  - first:
+      213: 686800123463583858
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_52
+  - first:
+      213: -4179157158756628265
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_53
+  - first:
+      213: -2791195666133872287
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_54
+  - first:
+      213: -2392854031497223409
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_55
+  - first:
+      213: -8807075176191251484
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_56
+  - first:
+      213: 7660004530633135207
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_57
+  - first:
+      213: 7099017342641878299
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_58
+  - first:
+      213: 1125481496146187273
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_59
+  - first:
+      213: 7871676518598599327
+    second: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_60
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 558
+        width: 193
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: -123}
+        - {x: -46.5, y: -105}
+        - {x: -75.5, y: -104}
+        - {x: -96.5, y: -123}
+        - {x: -96.5, y: 123}
+        - {x: 96.5, y: 123}
+        - {x: 96.5, y: -123}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4966248d2445398b0800000000000000
+      internalID: -5146677303081539948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_1
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 504
+        width: 183
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fab2fac730dfe70800000000000000
+      internalID: 9150473851936419650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_2
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 593
+        width: 157
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -183.5}
+        - {x: -30.5, y: -34.5}
+        - {x: -78.5, y: -13.5}
+        - {x: -78.5, y: 183.5}
+        - {x: 78.5, y: 183.5}
+        - {x: 78.5, y: -183.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bbddca4722fecc0800000000000000
+      internalID: -3679684486026642535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_3
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 512
+        width: 183
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb98c337070a567c0800000000000000
+      internalID: -4078677482683987525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_4
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 576
+        width: 173
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cf7b4b1234ca780800000000000000
+      internalID: -8670481370550109077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_5
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 735
+        width: 16
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fa1dd802d71b130800000000000000
+      internalID: 3580780757508009884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_6
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 757
+        width: 8
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24970628c128d1a70800000000000000
+      internalID: 8799332305909872962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_7
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 770
+        width: 8
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4677166c5c43380800000000000000
+      internalID: -8992345100122626888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_8
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 526
+        width: 186
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93, y: -113}
+        - {x: -93, y: 113}
+        - {x: -73, y: 90}
+        - {x: -60, y: 96}
+        - {x: -47, y: 103}
+        - {x: -33, y: 107}
+        - {x: -21, y: 113}
+        - {x: 47, y: 110}
+        - {x: 55, y: 101}
+        - {x: 75, y: 82}
+        - {x: 93, y: 113}
+        - {x: 93, y: -113}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0a9e0b56b6cbf30800000000000000
+      internalID: 4592663804515033321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_9
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 744
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f25eb1cef5d9380800000000000000
+      internalID: -8962902215712493733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_10
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 724
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973f95ca5685c8af0800000000000000
+      internalID: -392841873781558407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_11
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 517
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b40fe438fbfc6580800000000000000
+      internalID: -8832407725721844556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_12
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 540
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5380a54570b0dbe60800000000000000
+      internalID: 7979546240878250037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_13
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 480
+        width: 188
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe26a2a2f28333fa0800000000000000
+      internalID: -5822248118037880081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_14
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 304
+        width: 180
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: -125}
+        - {x: 5, y: -121}
+        - {x: -17, y: -130}
+        - {x: -90, y: -130}
+        - {x: -90, y: 130}
+        - {x: 90, y: 130}
+        - {x: 90, y: -114}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9cd53c8a9e4b770800000000000000
+      internalID: 8625776097362823669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_15
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 506
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007d250669b53ac20800000000000000
+      internalID: 3216515260291929856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_16
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 503
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7b11d03f53909d0800000000000000
+      internalID: -2807653574676203608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_17
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 161
+        width: 159
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: -179.5}
+        - {x: -54.5, y: -179.5}
+        - {x: -44.5, y: -42.5}
+        - {x: -79.5, y: -23.5}
+        - {x: -79.5, y: 179.5}
+        - {x: 79.5, y: 179.5}
+        - {x: 79.5, y: -42.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d4844ebc85b10d0800000000000000
+      internalID: -3451067056717804288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 263
+        width: 182
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba613ce302ffc4e10800000000000000
+      internalID: 2183400433324857003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_19
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 235
+        width: 185
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: -132.5}
+        - {x: -42.5, y: -103.5}
+        - {x: -68.5, y: -88.5}
+        - {x: -92.5, y: 132.5}
+        - {x: 92.5, y: 132.5}
+        - {x: 92.5, y: -132.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc47dfe4d87f93f60800000000000000
+      internalID: 8014709198170191053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_20
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 395
+        width: 92
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bed86d2e53401ac0800000000000000
+      internalID: -3886532406652903752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_21
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 447
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924a0968db0d5e160800000000000000
+      internalID: 7054273903770772521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_22
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 422
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28703354f9508ab90800000000000000
+      internalID: -7230523020124420222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_23
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 458
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49644992d7c3d2170800000000000000
+      internalID: 8155241008503998100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_24
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 464
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d81f6d0cbf12a20800000000000000
+      internalID: 3035984429482872119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_25
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 419
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df6a8696be73e650800000000000000
+      internalID: 6260987229649924054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_26
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 433
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5517c21c55655b670800000000000000
+      internalID: 8553837993573249365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_27
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 446
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a13ae1f7f97cadc0800000000000000
+      internalID: -3626389494117551712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_28
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 439
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bfbd07c8d156d50800000000000000
+      internalID: 6729817707201166205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_29
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 413
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6033bbbfde842ac0800000000000000
+      internalID: -3880819887308590998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_30
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 426
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7cfcfa21fdc4410800000000000000
+      internalID: 1462789250340603875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_31
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 400
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe5a83b40bed4860800000000000000
+      internalID: 7515921758575812284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_32
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 418
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6943057a624fa7170800000000000000
+      internalID: 8177116520297542806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_33
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 416
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09afb3f39e32715b0800000000000000
+      internalID: -5397806143685002608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_34
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 132
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66, y: -210.5}
+        - {x: -66, y: 210.5}
+        - {x: -56, y: 182.5}
+        - {x: -35, y: 178.5}
+        - {x: -15, y: 209.5}
+        - {x: 8, y: 209.5}
+        - {x: 25, y: 188.5}
+        - {x: 66, y: 179.5}
+        - {x: 66, y: -210.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccc1ae8399309ba0800000000000000
+      internalID: -6084299790661595962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_35
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 390
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0522de24187fb9fd0800000000000000
+      internalID: -2333999847315791280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_36
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 411
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d28d711e48f45880800000000000000
+      internalID: -8622994372323081512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_37
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 396
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81ea0cd2e2b52ae0800000000000000
+      internalID: -1574655807272066678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_38
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 375
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b44dfe70a6467ba0800000000000000
+      internalID: -6091603790832778063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_39
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 2
+        width: 141
+        height: 389
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.5, y: -194.5}
+        - {x: -70.5, y: 163.5}
+        - {x: -42.5, y: 174.5}
+        - {x: -30.5, y: 194.5}
+        - {x: 11.5, y: 194.5}
+        - {x: 27.5, y: 173.5}
+        - {x: 56.5, y: 167.5}
+        - {x: 70.5, y: 194.5}
+        - {x: 70.5, y: -194.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f208ddb646ab420800000000000000
+      internalID: 2646538145474031407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_40
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 380
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42c760c074cd2250800000000000000
+      internalID: 5921605073605476940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_41
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 372
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc28f198ff0bbcb0800000000000000
+      internalID: -4847263013658940219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_42
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 364
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1310993c95e07fc90800000000000000
+      internalID: -7136219305848798927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_43
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 2
+        width: 148
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74, y: -188}
+        - {x: -74, y: 169}
+        - {x: -53, y: 167}
+        - {x: -26, y: 188}
+        - {x: 30, y: 188}
+        - {x: 74, y: 171}
+        - {x: 74, y: -188}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd22ac9faddb4180800000000000000
+      internalID: -9129960073246659130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_44
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 256
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d81194dadb896d0800000000000000
+      internalID: -2983426201180074714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_45
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 289
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02080904d63e2ef10800000000000000
+      internalID: 2297648818286526496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_46
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 296
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad76dc932609dba0800000000000000
+      internalID: -6063808673252737620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_47
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 63
+        width: 185
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92.5, y: -125}
+        - {x: -77.5, y: -56}
+        - {x: -91.5, y: 41}
+        - {x: -92.5, y: 125}
+        - {x: 92.5, y: 125}
+        - {x: 92.5, y: -125}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ddf10936e14c8b0800000000000000
+      internalID: -5132944262326919781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_48
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 223
+        width: 17
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7405228a0030f70800000000000000
+      internalID: 9152159589877172137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_49
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 227
+        width: 10
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf80597520c6f3c0800000000000000
+      internalID: -4326059124861136955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_50
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 266
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7738f493d90d330800000000000000
+      internalID: 3733656960562853810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_51
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 264
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda8dea354dd62470800000000000000
+      internalID: 8369620246925773534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_52
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 2
+        width: 180
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278cdbec211088900800000000000000
+      internalID: 686800123463583858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 181
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8c7cbc4b6a006c0800000000000000
+      internalID: -4179157158756628265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_54
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 226
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1611b7d745ea349d0800000000000000
+      internalID: -2791195666133872287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_55
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 219
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f032f3dafefdaced0800000000000000
+      internalID: -2392854031497223409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_56
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 239
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eba5f40acbf6c580800000000000000
+      internalID: -8807075176191251484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_57
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 253
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7645542498dcd4a60800000000000000
+      internalID: 7660004530633135207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_58
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2
+        width: 182
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15b18239a6c48260800000000000000
+      internalID: 7099017342641878299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_59
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 2
+        width: 185
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904911b25738e9f00800000000000000
+      internalID: 1125481496146187273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-platforming_forest_chomper-2048x1024-fmt12_60
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 2
+        width: 183
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f926ad57610dd3d60800000000000000
+      internalID: 7871676518598599327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
