@@ -1,18 +1,25 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class GameController : MonoBehaviour
 {
     public static bool gameIsPaused;
     public AudioClip musicaFundo;
-    public AudioSource audioSource;
+    public AudioClip tiroPlayer;
+    public AudioClip comecoLevel;
+    public AudioClip fimLevel;
+
+    public AudioSource audioSourceComecoLevel;
+    public AudioSource audioSourceTiroPlayer;
+    public AudioSource audioSourceMusicaFundo;
+    public AudioSource audioSourceFimLevel;
+
+    public GameObject completeGameUI;
 
     // Start is called before the first frame update
     void Start()
     {
-        audioSource.clip = musicaFundo;
-        audioSource.Play();
+        playComeco();
+        playMusicBackground();
     }
 
     // Update is called once per frame
@@ -20,23 +27,58 @@ public class GameController : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.P))
         {
-            gameIsPaused = !gameIsPaused;
-            PauseGame();
+            pauseGame();
         }
-
     }
 
-    void PauseGame()
+    public void pauseGame()
+    {
+        gameIsPaused = !gameIsPaused;
+        PauseGame();
+    }
+
+    public void PauseGame()
     {
         if (gameIsPaused)
         {
             Time.timeScale = 0f;
-            audioSource.Pause();
+            audioSourceMusicaFundo.Pause();
         }
         else
         {
             Time.timeScale = 1;
-            audioSource.UnPause();
+            audioSourceMusicaFundo.UnPause();
         }
     }
+
+    public void playComeco()
+    {
+        audioSourceComecoLevel.clip = comecoLevel;
+        audioSourceComecoLevel.Play();
+    }
+
+    public void playMusicBackground()
+    {
+        audioSourceMusicaFundo.clip = musicaFundo;
+        audioSourceMusicaFundo.Play();
+    }
+
+    public void playAudioTiro()
+    {
+        audioSourceTiroPlayer.clip = tiroPlayer;
+        audioSourceTiroPlayer.Play();
+    }
+
+    public void playFimLevel()
+    {
+        audioSourceFimLevel.clip = fimLevel;
+        audioSourceFimLevel.Play();
+    }
+
+    public void CompleteLevel()
+    {
+        completeGameUI.SetActive(true);
+        audioSourceMusicaFundo.Pause();
+        playFimLevel();
+    } 
 }

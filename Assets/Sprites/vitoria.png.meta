@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 4f9572da8b346094a991c8c2d17a7d3e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8304325668980530454
+    second: PC Computer - Cuphead Dont Deal With the Devil - Victory_0
+  - first:
+      213: 9154487310503775186
+    second: PC Computer - Cuphead Dont Deal With the Devil - Victory_1
+  - first:
+      213: 1656362982240368327
+    second: PC Computer - Cuphead Dont Deal With the Devil - Victory_2
+  - first:
+      213: -6028122973890852581
+    second: PC Computer - Cuphead Dont Deal With the Devil - Victory_3
+  - first:
+      213: 8648672878198187778
+    second: PC Computer - Cuphead Dont Deal With the Devil - Victory_4
+  - first:
+      213: 1704882740170162127
+    second: PC Computer - Cuphead Dont Deal With the Devil - Victory_5
+  - first:
+      213: -5323547644333352519
+    second: PC Computer - Cuphead Dont Deal With the Devil - Victory_6
+  - first:
+      213: -5389507853825853608
+    second: PC Computer - Cuphead Dont Deal With the Devil - Victory_7
+  - first:
+      213: 1534598561155620342
+    second: PC Computer - Cuphead Dont Deal With the Devil - Victory_8
+  - first:
+      213: 7175330953323237794
+    second: PC Computer - Cuphead Dont Deal With the Devil - Victory_9
+  - first:
+      213: 4718815666556362067
+    second: PC Computer - Cuphead Dont Deal With the Devil - Victory_10
+  - first:
+      213: 3608883948926017185
+    second: PC Computer - Cuphead Dont Deal With the Devil - Victory_11
+  - first:
+      213: -6251829468734471583
+    second: PC Computer - Cuphead Dont Deal With the Devil - Victory_12
+  - first:
+      213: 2221295526918391683
+    second: PC Computer - Cuphead Dont Deal With the Devil - Victory_13
+  - first:
+      213: 985814497980828684
+    second: PC Computer - Cuphead Dont Deal With the Devil - Victory_14
+  - first:
+      213: -3461469172878587947
+    second: PC Computer - Cuphead Dont Deal With the Devil - Victory_15
+  - first:
+      213: -3807322390496500472
+    second: PC Computer - Cuphead Dont Deal With the Devil - Victory_16
+  - first:
+      213: 6919369801847282058
+    second: PC Computer - Cuphead Dont Deal With the Devil - Victory_17
+  - first:
+      213: 738609965206407176
+    second: PC Computer - Cuphead Dont Deal With the Devil - Victory_18
+  - first:
+      213: 8305168597947582575
+    second: PC Computer - Cuphead Dont Deal With the Devil - Victory_19
+  - first:
+      213: -2474988444338943472
+    second: PC Computer - Cuphead Dont Deal With the Devil - Victory_20
+  - first:
+      213: -4642861132227871360
+    second: PC Computer - Cuphead Dont Deal With the Devil - Victory_21
+  - first:
+      213: 2881601364458177994
+    second: PC Computer - Cuphead Dont Deal With the Devil - Victory_22
+  - first:
+      213: -3683814150975645512
+    second: PC Computer - Cuphead Dont Deal With the Devil - Victory_23
+  - first:
+      213: -344533977395480950
+    second: PC Computer - Cuphead Dont Deal With the Devil - Victory_24
+  - first:
+      213: 4070136157124566110
+    second: PC Computer - Cuphead Dont Deal With the Devil - Victory_25
+  - first:
+      213: -5102360091812927115
+    second: PC Computer - Cuphead Dont Deal With the Devil - Victory_26
+  - first:
+      213: 156548669869313124
+    second: PC Computer - Cuphead Dont Deal With the Devil - Victory_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Victory_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4336
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2e1416dcb11cc80800000000000000
+      internalID: -8304325668980530454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Victory_1
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 4336
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db0663d4b54b0f70800000000000000
+      internalID: 9154487310503775186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Victory_2
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 4336
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c63b874b559cf610800000000000000
+      internalID: 1656362982240368327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Victory_3
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 4336
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b194dd6f71ec75ca0800000000000000
+      internalID: -6028122973890852581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Victory_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3616
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207ee8bf822460870800000000000000
+      internalID: 8648672878198187778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Victory_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3616
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf798fb1d5f8a710800000000000000
+      internalID: 1704882740170162127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Victory_6
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3616
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b994a27f95fe16b0800000000000000
+      internalID: -5323547644333352519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Victory_7
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3616
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857388a692f9435b0800000000000000
+      internalID: -5389507853825853608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Victory_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2896
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd918eb24dfb4510800000000000000
+      internalID: 1534598561155620342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Victory_9
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2896
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a152ba4c75e39360800000000000000
+      internalID: 7175330953323237794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Victory_10
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2896
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35dd3ade8d99c7140800000000000000
+      internalID: 4718815666556362067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Victory_11
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2896
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae1853b4d4551230800000000000000
+      internalID: 3608883948926017185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Victory_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2176
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16243c7c83a0d39a0800000000000000
+      internalID: -6251829468734471583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Victory_13
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2176
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38782274380a3de10800000000000000
+      internalID: 2221295526918391683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Victory_14
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2176
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cc39610115ead00800000000000000
+      internalID: 985814497980828684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Victory_15
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2176
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d74b9d702466ffc0800000000000000
+      internalID: -3461469172878587947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Victory_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1456
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805a019357ca92bc0800000000000000
+      internalID: -3807322390496500472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Victory_17
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1456
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a891ca4ac2a860060800000000000000
+      internalID: 6919369801847282058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Victory_18
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1456
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80801bb99d1104a00800000000000000
+      internalID: 738609965206407176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Victory_19
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1456
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68056056d2e14370800000000000000
+      internalID: 8305168597947582575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Victory_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a0bf77f1317add0800000000000000
+      internalID: -2474988444338943472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Victory_21
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 736
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08df610366e319fb0800000000000000
+      internalID: -4642861132227871360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Victory_22
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 736
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac58fc07c218df720800000000000000
+      internalID: 2881601364458177994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Victory_23
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 736
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b81a802c8670ecc0800000000000000
+      internalID: -3683814150975645512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Victory_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a863a484c28f73bf0800000000000000
+      internalID: -344533977395480950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Victory_25
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 16
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c12e835470c7830800000000000000
+      internalID: 4070136157124566110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Victory_26
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 16
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5796c5ba786c039b0800000000000000
+      internalID: -5102360091812927115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Victory_27
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 16
+        width: 1280
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cce919f2c2c2200800000000000000
+      internalID: 156548669869313124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -18,6 +18,8 @@ public class Movimento : MonoBehaviour
     public Transform Arma;
     public GameObject balaPrefab;
 
+    public GameController gameController;
+
     private float velocidadeBala;
     private float tempoDisparo;
     private float proximoTiro;
@@ -41,7 +43,6 @@ public class Movimento : MonoBehaviour
         Pulo();
         AnimacaoTiro();
         Atirar();
-
     }
 
     void Flip()
@@ -70,9 +71,9 @@ public class Movimento : MonoBehaviour
 
     void AnimacaoIdle()
     {
-            anim.SetBool("andar", false);
-            anim.SetBool("idle", true);
-            anim.SetBool("atirar", false);
+        anim.SetBool("andar", false);
+        anim.SetBool("idle", true);
+        anim.SetBool("atirar", false);
     }
     void Pulo()
     {
@@ -112,9 +113,10 @@ public class Movimento : MonoBehaviour
 
     }
 
-    void Atirar(){       
-
+    void Atirar()
+    {       
         if(Input.GetKey(KeyCode.Z) && Time.time > proximoTiro){
+            gameController.playAudioTiro();
             proximoTiro = Time.time + tempoDisparo;
             GameObject bala = Instantiate(balaPrefab, Arma.position, transform.rotation);  
             if(face){
@@ -124,14 +126,19 @@ public class Movimento : MonoBehaviour
             }
         }
     }
-    
-    void OnCollisionEnter2D(Collision2D outro) {
-        if(outro.gameObject.CompareTag("chao"))
+
+    void OnCollisionEnter2D(Collision2D outro)
+    {
+        if (outro.gameObject.CompareTag("chao"))
         {
             liberaPulo = true;
             anim.SetBool("idle", true);
-            anim.SetBool("pular", false); 
+            anim.SetBool("pular", false);
+        }
 
+        if (outro.gameObject.CompareTag("morte"))
+        {
+            Player.velocity = Vector2.zero;
         }
     }
 
