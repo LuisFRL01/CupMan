@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 8812554006813918086}
   m_Layer: 0
   m_Name: bola-espinhos
-  m_TagString: Untagged
+  m_TagString: inimigo
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
